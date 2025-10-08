@@ -1,0 +1,414 @@
+## ⚠️ CRITICAL RESEARCH INSTRUCTIONS ⚠️
+
+**YOU MUST USE YOUR SEARCH TOOLS TO FIND REAL INFORMATION.**
+
+- DO NOT generate, fabricate, or invent ANY URLs, links, citations, or data
+- DO NOT make up controversies, issues, or risk factors
+- If you cannot find specific information through search, explicitly state: "Information not available through search"
+- ONLY include URLs and data that were provided to you through actual search tool results
+- When you lack information on any topic, clearly state that it could not be found rather than guessing
+
+**Your search tools are your ONLY source of truth. Use them extensively.**
+
+---
+
+TARGET: [University Name]
+Extra: [Bachelor full name]
+
+## SECTION 9: RISK ASSESSMENT & RED FLAGS
+
+### OBJECTIVE:
+Identify potential issues, challenges, and dealbreakers that could affect student success or satisfaction.
+
+---
+
+## 9.1 PROGRAM-LEVEL RISKS
+
+### A. CURRICULUM ISSUES
+
+**Outdated Content:**
+- **Are courses teaching current technologies?**
+  - Evidence from syllabi: [Modern tools/languages OR outdated]
+  - Student complaints: "Course X still uses [old tech]..." [Quote if found]
+- **ML/AI Currency:**
+  - Do courses cover Transformers, LLMs, modern architectures? [YES/NO from Section 4]
+  - Last curriculum update: [Year if findable]
+- **Risk Level:** [LOW - Modern curriculum / MEDIUM - Some outdated / HIGH - Significantly behind]
+
+**Course Availability:**
+- **Registration Issues:**
+  - Popular AI courses hard to get into? [Student complaints found YES/NO]
+  - Quote: "I couldn't register for [course] because..."
+- **Frequency of Offerings:**
+  - Critical courses offered: Every semester / Once per year / Irregularly
+  - Risk: "Could delay graduation" [YES/NO]
+- **Risk Level:** [LOW - Good availability / MEDIUM - Some challenges / HIGH - Major bottlenecks]
+
+**Teaching Quality Variability:**
+- **Inconsistent Quality:**
+  - Some required courses poorly taught? [Evidence from Section 7]
+  - Specific problem courses: [List if mentioned repeatedly in forums]
+- **Faculty Issues:**
+  - High adjunct/part-time faculty ratio: [Concern YES/NO]
+  - TAs teaching core courses: [Concern YES/NO]
+- **Risk Level:** [LOW - Consistently good / MEDIUM - Mixed / HIGH - Systemic issues]
+
+---
+
+### B. FACULTY & RESEARCH RISKS
+
+**Faculty Departures:**
+- **Brain Drain:**
+  - Have key AI faculty left recently (to industry, other universities)?
+  - Method: Compare faculty list from 2-3 years ago to current
+  - Notable departures: [Names if significant, or NONE found]
+- **Industry Poaching:**
+  - Are faculty leaving for DeepMind, OpenAI, etc.? [Pattern YES/NO]
+- **Impact:**
+  - Gaps in expertise: [YES - specific areas / NO]
+  - Fewer research opportunities: [YES/NO]
+- **Risk Level:** [LOW - Stable faculty / MEDIUM - Some turnover / HIGH - Significant departures]
+
+**Research Funding Trends:**
+- **Declining Funding:**
+  - Is department losing research grants? [Check news, reports]
+  - Evidence: [Budget cuts, hiring freezes, reduced resources]
+- **Impact on Undergrads:**
+  - Fewer paid research positions: [Concern YES/NO]
+  - Reduced computing resources: [Concern YES/NO]
+- **Risk Level:** [LOW - Well-funded / MEDIUM - Stable / HIGH - Funding concerns]
+
+---
+
+### C. PROGRAM SIZE & RESOURCES
+
+**Too Large:**
+- Cohort size: [X] students per year
+- **Issues if too large (>200):**
+  - Limited personalized attention
+  - Competitive for research positions
+  - Harder to build faculty relationships
+- **Risk Level:** [LOW - Manageable size / MEDIUM - Large but okay / HIGH - Overcrowded]
+
+**Too Small:**
+- **Issues if too small (<30):**
+  - Limited course offerings
+  - Fewer research groups
+  - Less diverse perspectives
+- **Risk Level:** [LOW - Good size / MEDIUM - Small but adequate / HIGH - Too limited]
+
+---
+
+## 9.2 INSTITUTIONAL RISKS
+
+### A. FINANCIAL HEALTH
+
+**University Budget:**
+- **Search News:** "[University name] budget cuts" "funding crisis" "layoffs"
+- **Findings:**
+  - Recent budget cuts: [YES - details / NO]
+  - Impact on CS department: [Affected YES/NO]
+  - Hiring freezes: [YES/NO]
+  - Resource reductions: [YES/NO]
+- **URLs:** [News articles if found]
+
+**Financial Stability:**
+- University endowment: [Size if publicly available]
+- Trend: [Growing / Stable / Declining]
+- **Risk Level:** [LOW - Financially strong / MEDIUM - Stable / HIGH - Concerning]
+
+---
+
+### B. ADMINISTRATIVE CHALLENGES
+
+**Bureaucracy:**
+- **Student Complaints:**
+  - Red tape and slow processes? [Frequently mentioned YES/NO]
+  - Quote: "Dealing with [office] is frustrating because..."
+- **Registration System:**
+  - Course registration problems: [Major issue / Minor / Smooth]
+- **Advising:**
+  - Quality of academic advising: [Excellent / Adequate / Poor - from Section 7]
+- **Risk Level:** [LOW - Well-run / MEDIUM - Some frustrations / HIGH - Systemic dysfunction]
+
+**International Office Quality:**
+- **Support for International Students:**
+  - Quality assessment from Section 3 and 7
+  - Frequent complaints: [YES - what issues / NO - generally positive]
+- **Responsiveness:**
+  - Slow to respond to visa/immigration questions? [YES/NO]
+- **Risk Level:** [LOW - Excellent support / MEDIUM - Adequate / HIGH - Poor support]
+
+---
+
+### C. ACCREDITATION & RECOGNITION
+
+**Program Accreditation:**
+- Accredited by: [ABET, EUR-ACE, national body, etc. from Section 4]
+- Risk of losing accreditation: [NO evidence / Concerns exist]
+- **Risk Level:** [LOW - Well accredited / MEDIUM - Adequate / HIGH - Issues]
+
+**Degree Recognition:**
+- **For Ukrainian Student:**
+  - Degree recognized in Ukraine: [YES - Bologna Process / Need to verify]
+  - Degree recognized globally: [YES - reputable / Concerns]
+- **Risk Level:** [LOW - Globally recognized / HIGH - Limited recognition]
+
+---
+
+## 9.3 EXTERNAL RISKS
+
+### A. COUNTRY-LEVEL RISKS
+
+**Immigration Policy Changes:**
+- **Political Climate:**
+  - Attitude toward immigration: [Stable / Shifting / Hostile]
+  - Recent restrictive policies: [YES - details / NO]
+- **Student Visa Program:**
+  - Risk of program changes: [LOW - Stable / MEDIUM - Uncertain / HIGH - Volatile]
+- **Post-Study Work Visa:**
+  - Risk of elimination/reduction: [Evidence of proposals / NO evidence]
+- **Risk Level:** [LOW - Stable policies / MEDIUM - Some uncertainty / HIGH - Significant risk]
+
+**Economic Conditions:**
+- **Job Market:**
+  - Recession concerns: [Current situation]
+  - Tech sector layoffs: [Affecting internships/jobs YES/NO]
+- **Impact on Graduates:**
+  - Employment prospects affected: [YES/NO]
+- **Risk Level:** [LOW - Strong economy / MEDIUM - Uncertain / HIGH - Recession]
+
+**Political Stability:**
+- Country stability: [Very stable / Stable / Some concerns / Unstable]
+- Recent political developments affecting students: [Any relevant changes]
+
+---
+
+### B. REGIONAL FACTORS
+
+**Local Economic Health:**
+- **City/Region:**
+  - Economic downturn in city: [Concern YES/NO]
+  - Major employers leaving: [Evidence YES/NO]
+- **Impact:**
+  - Fewer local internships/jobs: [Concern YES/NO]
+
+**Cost Inflation:**
+- **Rapid Cost Increases:**
+  - Has cost of living risen dramatically? [Evidence from trends]
+  - Tuition increases: [Stable / Moderate increases / Rapid increases]
+- **Risk Level:** [LOW - Stable costs / MEDIUM - Moderate inflation / HIGH - Rapid increases]
+
+---
+
+### C. PANDEMIC & GLOBAL DISRUPTIONS
+
+**COVID-19 Impact & Recovery:**
+- How did university handle pandemic: [Well / Adequately / Poorly]
+- Current status: [Fully in-person / Hybrid / Concerns]
+- Future preparedness: [Good infrastructure for remote if needed]
+
+**Other Disruptions:**
+- Natural disasters: [Earthquakes, floods - any risk]
+- Geopolitical risks: [Proximity to conflicts, sanctions, etc.]
+
+---
+
+## 9.4 STUDENT-SPECIFIC RISKS
+
+### A. UKRAINIAN STUDENT CHALLENGES
+
+**Document Access:**
+- **Getting Records from Ukraine:**
+  - Transcripts, apostilles, recommendations
+  - Difficulty level: [Manageable / Challenging / Very difficult]
+  - Workarounds available: [YES/NO]
+
+**Financial Uncertainties:**
+- **Family Financial Situation:**
+  - Unstable income due to war: [Common concern]
+  - Currency fluctuations (UAH): [Risk factor]
+  - Bank access: [Potential issues]
+- **Mitigation:**
+  - Does university have emergency funds? [From Section 1]
+  - Flexible payment plans: [Available YES/NO]
+
+**Immigration Complications:**
+- **For Ukrainians Specifically:**
+  - Additional scrutiny at borders: [Concern YES/NO]
+  - TP status uncertainty: [Extended regularly / Unknown future]
+
+---
+
+### B. ACADEMIC RISKS
+
+**Preparedness Gaps:**
+- **Ukrainian Education vs University:**
+  - Math/CS preparation adequate: [Generally yes / Some gaps]
+  - Potential catch-up needed: [Specific areas if any]
+
+**Language Barrier:**
+- **English Proficiency:**
+  - TOEFL requirement vs actual need: [Minimum sufficient / Need higher]
+  - ESL support: [Available YES/NO]
+
+**Culture Shock:**
+- **Academic Culture:**
+  - Different teaching style (US vs European vs Ukrainian): [Adjustment needed]
+  - Participation expectations: [Speaking in class, office hours culture]
+
+---
+
+## 9.5 DEAL-BREAKERS & RED FLAGS
+
+### IDENTIFY CRITICAL ISSUES THAT SHOULD ELIMINATE UNIVERSITY
+
+**Financial Deal-Breakers:**
+- [ ] Total cost exceeds €[X] without realistic aid path
+- [ ] No Ukrainian-specific support AND expensive
+- [ ] Very limited scholarship opportunities for internationals
+
+**Academic Deal-Breakers:**
+- [ ] Curriculum severely outdated (no modern AI)
+- [ ] No CUDA/GPU programming (critical for student)
+- [ ] No research opportunities for undergrads
+
+**Career Deal-Breakers:**
+- [ ] Very poor job placement (<70%)
+- [ ] No post-study work visa AND limited local jobs
+- [ ] Degree not recognized internationally
+
+**Quality-of-Life Deal-Breakers:**
+- [ ] Unsafe location (high crime)
+- [ ] Severe discrimination against international students
+- [ ] Extreme climate unmanageable
+
+**Institutional Deal-Breakers:**
+- [ ] University in financial crisis (imminent closure risk)
+- [ ] Loss of accreditation
+- [ ] Extremely poor international student support
+
+**Check if ANY deal-breaker applies:** [YES - specify / NO]
+
+---
+
+## 9.6 RISK MITIGATION STRATEGIES
+
+### FOR EACH IDENTIFIED RISK:
+
+**Risk:** [Description]
+- **Likelihood:** [High / Medium / Low]
+- **Impact:** [High / Medium / Low]
+- **Mitigation:**
+  - [How student can work around or prepare]
+  - [University resources that help]
+  - [Alternative plans]
+
+**Example:**
+**Risk:** Faculty departure reduced AI safety research opportunities
+- Likelihood: Medium
+- Impact: Medium (can still take courses, just fewer research options)
+- Mitigation: Pursue research in adjacent areas (ML robustness), independent study, online resources, transfer if becomes critical
+
+---
+
+## 9.7 OVERALL RISK LEVEL (For Comparison)
+
+### AGGREGATE RISK SCORE (0-10, where 0 = No Risk, 10 = Very High Risk)
+
+**Program Risks:**
+- Curriculum quality: [Score 0-10, higher = more risk]
+- Faculty stability: [Score]
+- Resource adequacy: [Score]
+
+**Institutional Risks:**
+- Financial health: [Score]
+- Administrative quality: [Score]
+
+**External Risks:**
+- Immigration policy: [Score]
+- Economic conditions: [Score]
+
+**Student-Specific Risks:**
+- Ukrainian challenges: [Score]
+- Academic preparedness: [Score]
+
+**CALCULATE AVERAGE: OVERALL RISK LEVEL = [X]/10**
+
+**Inverse for comparison: RISK-ADJUSTED SAFETY SCORE = [10 - X]/10**
+
+---
+
+## 9.8 STANDARDIZED OUTPUT FOR COMPARISON
+
+**RISK ASSESSMENT CARD**
+
+```
+UNIVERSITY: [Name]
+
+PROGRAM RISKS:
+- Curriculum: [Modern/Adequate/Outdated]
+- Faculty Stability: [Stable/Some turnover/High turnover]
+- Course Availability: [Good/Some issues/Bottlenecks]
+- Research Funding: [Strong/Stable/Declining]
+
+INSTITUTIONAL RISKS:
+- Financial Health: [Strong/Stable/Concerning]
+- Administration: [Efficient/Adequate/Bureaucratic]
+- International Support: [Excellent/Adequate/Poor]
+
+EXTERNAL RISKS:
+- Immigration Policy: [Stable/Uncertain/Volatile]
+- Economic Conditions: [Strong/Uncertain/Recession]
+- Political Stability: [Very stable/Stable/Concerns]
+
+UKRAINIAN-SPECIFIC RISKS:
+- Document Challenges: [Manageable/Moderate/Difficult]
+- Financial Uncertainty: [Low risk/Moderate/High]
+- TP Status Dependency: [Not applicable/Stable/Uncertain]
+
+DEAL-BREAKERS PRESENT:
+- [NONE] OR [List any critical red flags]
+
+KEY RISKS TO MONITOR:
+1. [Risk 1 - severity]
+2. [Risk 2 - severity]
+3. [Risk 3 - severity]
+
+MITIGATION AVAILABLE:
+- [How addressable are the risks - Good/Moderate/Limited]
+
+OVERALL RISK LEVEL: [X]/10
+(0 = No significant risks, 10 = Very high risk)
+
+RECOMMENDATION:
+[Low risk - Safe choice / Moderate risk - Monitor / High risk - Reconsider / Critical - Avoid]
+```
+
+---
+
+## 9.9 CRITICAL QUESTIONS CHECKLIST
+
+Before moving to next section:
+- [ ] Curriculum modernity assessed (modern AI coverage)
+- [ ] Faculty stability checked (departures, brain drain)
+- [ ] University financial health researched (news search)
+- [ ] Administrative quality evaluated (from student forums)
+- [ ] Immigration policy risks identified (country-level)
+- [ ] Ukrainian-specific challenges documented
+- [ ] Deal-breakers checked (any critical red flags?)
+- [ ] Risk mitigation strategies noted
+- [ ] Overall Risk Level calculated
+- [ ] All concerning findings have sources/URLs
+
+---
+
+## ⚠️ FINAL REMINDER ⚠️
+
+**VERIFY YOUR WORK:**
+- Every URL you included came from actual search results (not generated by you)
+- Every controversy, issue, and risk factor came from search results
+- Any information you couldn't find is clearly marked as "Information not available"
+- You did NOT fabricate or guess any information
+
+**If you generated fake links or data, your report is INVALID. Only real search results are acceptable.**

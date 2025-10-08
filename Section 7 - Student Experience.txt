@@ -1,0 +1,372 @@
+## ⚠️ CRITICAL RESEARCH INSTRUCTIONS ⚠️
+
+**YOU MUST USE YOUR SEARCH TOOLS TO FIND REAL INFORMATION.**
+
+- DO NOT generate, fabricate, or invent ANY URLs, links, citations, or data
+- DO NOT make up Reddit posts, student reviews, or testimonials
+- If you cannot find specific information through search, explicitly state: "Information not available through search"
+- ONLY include URLs and data that were provided to you through actual search tool results
+- When you lack information on any topic, clearly state that it could not be found rather than guessing
+
+**Your search tools are your ONLY source of truth. Use them extensively.**
+
+---
+
+TARGET: [University Name]
+Extra: [Bachelor full name]
+
+## SECTION 7: STUDENT EXPERIENCE (Reddit Ground Truth)
+
+### OBJECTIVE:
+Gather real student opinions from forums to validate official claims and assess actual experience quality.
+
+---
+
+## 7.1 FORUM SOURCES TO SEARCH
+
+### PRIMARY SOURCES:
+- **r/[universityname]** - [X] members, Activity: [High/Medium/Low]
+- **r/[universityname]CS** or **r/[universityname]engineering** (if exists)
+- **College Confidential** - [University name] forum
+- **The Student Room** (for UK universities)
+- **University's official student forums** (if accessible)
+
+### RELATED SOURCES:
+- **r/ApplyingToCollege** - Search: "[University name]"
+- **r/collegeresults** - Search admitted student profiles
+- **r/csMajors** - General CS student experiences
+- **Discord servers** (if university has active server)
+
+### SEARCH KEYWORDS:
+- "[University] CS worth it"
+- "[University] AI program review"
+- "[University] difficult courses"
+- "[University] research opportunities"
+- "[University] international student"
+- "[University] jobs after graduation"
+- "Regret choosing [University]" OR "Best decision [University]"
+
+---
+
+## 7.2 PROGRAM REALITY CHECK
+
+### A. COURSE DIFFICULTY & WORKLOAD
+
+**Search for mentions of key courses:**
+- [Machine Learning course name]: Student opinions
+- [Deep Learning course name]: Difficulty, quality
+- [Algorithms course]: Workload, exams
+- [Systems course]: Projects, time investment
+
+**Synthesize Opinions:**
+
+**COURSE QUALITY:**
+- **Consensus:** [Courses are excellent / Good / Mixed / Poor]
+- **Positive mentions:** [Quote 2-3 positive comments]
+  * "The [course X] professor is amazing because..."
+  * "[Course Y] changed my perspective on..."
+- **Negative mentions:** [Quote 2-3 complaints]
+  * "[Course Z] is outdated, still teaching..."
+  * "Professor [X] is difficult to understand because..."
+
+**WORKLOAD:**
+- **Overall intensity:** [Very intense / Manageable / Relaxed]
+- **Hours per week estimate:** [X-Y] hours (from student reports)
+- **Exam vs Project based:** [Mostly exams / Mostly projects / Balanced]
+- **Grade deflation/inflation:** [Deflation evident / Fair grading / Inflation]
+
+**Mental Health & Stress:**
+- **Burnout culture:** [High stress, competitive / Balanced / Supportive]
+- **Student wellness:** [Quote opinions on mental health support]
+
+**Quote 3-5 Reddit Comments on Workload:**
+1. "[Quote from r/universityname]: 'The workload is...'"
+2. "[Quote]: 'Expect to spend X hours on...'"
+3. [Continue]
+
+---
+
+### B. TEACHING QUALITY
+
+**Faculty:**
+- **Overall perception:** [Excellent / Good / Mixed / Poor]
+- **Specific professors praised:** [Names mentioned positively]
+- **Specific professors criticized:** [Names mentioned negatively]
+- **Quote student opinions:**
+  * "Professor [X] is legendary for..."
+  * "Avoid [Y]'s class if possible because..."
+
+**TA Support:**
+- **Quality:** [Helpful and available / Overworked / Underqualified]
+- **Office hours:** [Accessible / Crowded / Limited]
+
+**Course Resources:**
+- Lecture recordings: [Available / Some courses / Not available]
+- Lecture notes quality: [Excellent / Adequate / Poor]
+- Textbooks: [Required and expensive / Recommended / Not needed]
+
+---
+
+### C. RESEARCH ACCESS REALITY
+
+**How Accessible Are Research Opportunities?**
+
+**Search for: "research opportunities" "UROP" "undergrad research" "[university]"**
+
+**Student Experiences:**
+- **Consensus:** [Easy to find research / Moderately competitive / Very competitive]
+- **Quote testimonials:**
+  * "I easily found a research position by..."
+  * "It's very competitive, I had to apply to X labs..."
+  * "As an international student, research spots were..."
+
+**Faculty Accessibility:**
+- **Professors approachable:** [Very accessible / Mixed / Prioritize grad students]
+- **Quote opinions:**
+  * "Professors are happy to mentor undergrads..."
+  * "Hard to get responses, faculty focused on grad students..."
+
+**When to Start:**
+- **Consensus timing:** [Year 1 possible / Year 2 realistic / Year 3+]
+- **Prerequisites:** [GPA requirements, course completion]
+
+**Research Quality:**
+- Do undergrads do meaningful work or just grunt work? [Quote opinions]
+
+---
+
+### D. STUDENT CULTURE & COMMUNITY
+
+**Collaborative vs Competitive:**
+- **Overall vibe:** [Collaborative and supportive / Mildly competitive / Cutthroat]
+- **Quote examples:**
+  * "Students help each other with assignments..."
+  * "There's a competitive atmosphere because..."
+
+**Study Groups:**
+- Common and encouraged: YES/NO
+- Student-run study sessions: [Active / Occasional / Rare]
+
+**Social Life:**
+- **Balance:** [Good academics + social balance / All academics / Party school]
+- **CS-specific social:** [Active CS club, hackathons, study groups]
+
+**Diversity & Inclusion:**
+- **International student integration:** [Well-integrated / Some cliques / Challenging]
+- **Support for minorities:** [Strong / Adequate / Issues noted]
+- **Quote international student experiences:**
+  * "As an international student, I felt..."
+
+**Ukrainian/Eastern European Community:**
+- **Search specifically for:** "Ukrainian student" "Eastern European"
+- **If found:** [Quote their experiences]
+- **If not found:** "No specific mentions of Ukrainian student experience found"
+
+---
+
+## 7.3 PRACTICAL ISSUES & COMPLAINTS
+
+### COMMON STUDENT COMPLAINTS
+
+**Top Issues Mentioned (Rank by frequency):**
+1. **[Issue #1]** - [e.g., "Course registration is a nightmare"]
+   - Quote: "[Reddit quote explaining the issue]"
+   - Frequency: [Mentioned often / Occasionally]
+2. **[Issue #2]** - [e.g., "Some required courses only offered once a year"]
+   - Quote: "[Explanation]"
+3. **[Issue #3]** - [e.g., "Housing is expensive and hard to find"]
+4. **[Issue #4]** - [e.g., "Bureaucracy and slow administration"]
+5. **[Issue #5]** - [Administrative, advising, facilities issues]
+
+**Recurring Themes:**
+- Are certain complaints mentioned across multiple years/threads?
+- Systemic issues vs one-off complaints
+
+---
+
+### COMMON PRAISES
+
+**What Students Love:**
+1. **[Strength #1]** - [e.g., "Research opportunities are excellent"]
+   - Quote: "[Student enthusiasm]"
+2. **[Strength #2]** - [e.g., "Professors genuinely care about teaching"]
+3. **[Strength #3]** - [e.g., "Strong alumni network helps with jobs"]
+4. **[Strength #4]** - [e.g., "Location in [city] is perfect for internships"]
+5. **[Strength #5]** - [Campus, resources, specific programs]
+
+---
+
+### INTERNATIONAL STUDENT SPECIFIC
+
+**Visa/Immigration Support:**
+- **Quality:** [Excellent / Adequate / Poor]
+- Quote: "The international office was..."
+
+**Cultural Adjustment:**
+- **Challenges:** [Language barrier, cultural differences, isolation]
+- **Support systems:** [International student organization, buddy programs]
+
+**Post-Graduation Concerns:**
+- Are international students worried about job prospects? [YES - quote / NO]
+- Post-study visa experiences: [Positive / Challenging]
+
+---
+
+## 7.4 ADMISSION INSIGHTS FROM ACCEPTED STUDENTS
+
+**Search: "[University] accepted" "got into [University]" "admitted to [University]"**
+
+### WHAT MADE APPLICATIONS STAND OUT
+
+**Profile Patterns:**
+- **Typical stats:** "Accepted with GPA [X], SAT [Y], and [notable ECs]"
+- **Common ECs:** [Research, Olympiads, specific competitions mentioned]
+- **Quote 3-5 accepted student profiles:**
+  1. "Accepted with [stats] - I think what helped was..."
+  2. [Continue]
+
+**Essay Insights:**
+- **Successful topics:** [Themes that worked]
+- **Quote:** "My essay was about [topic] and I think it stood out because..."
+
+**Surprises:**
+- **Unexpected acceptances:** [Lower stats but strong other factors]
+- **Unexpected rejections:** [High stats but weak fit/essays]
+
+---
+
+### APPLICATION MISTAKES & WARNINGS
+
+**Search: "rejected from [University]" "didn't get into [University]"**
+
+**Common Regrets:**
+1. "[Mistake #1]" - Quote: "I was rejected and I think it's because..."
+2. "[Mistake #2]" - Quote: "In hindsight, I should have..."
+3. [Continue for 3-5 common themes]
+
+**Red Flags:**
+- What consistently gets applicants rejected?
+- Dealbreaker weaknesses mentioned
+
+---
+
+## 7.5 FINANCIAL AID EXPERIENCES
+
+**Search: "financial aid" "scholarship" "[University]"**
+
+**Who Got Money:**
+- Profile of scholarship recipients
+- Quote: "I received [scholarship name] with stats [X] and I applied by..."
+
+**Disappointments:**
+- "Accepted but couldn't afford" stories
+- Insufficient aid packages: [Common theme or rare?]
+
+**Negotiation Experiences:**
+- Did anyone successfully appeal for more aid?
+- Quote: "I negotiated by..."
+
+---
+
+## 7.6 STUDENT SATISFACTION SCORE (For Comparison)
+
+### SCORING CRITERIA (0-10 scale):
+
+**Academic Quality:**
+- Course quality and teaching: [10 = Consistently excellent, 5 = Mixed, 0 = Poor]
+
+**Research Access:**
+- Ease of getting research opportunities: [10 = Very accessible, 5 = Competitive, 0 = Very difficult]
+
+**Student Culture:**
+- Collaborative and supportive: [10 = Very supportive, 5 = Neutral, 0 = Toxic]
+
+**Student Services:**
+- Administration, career services, international office: [10 = Excellent, 5 = Adequate, 0 = Poor]
+
+**Student Wellness:**
+- Work-life balance, mental health support: [10 = Healthy balance, 5 = Stressful, 0 = Burnout culture]
+
+**Overall Satisfaction:**
+- Would students choose this university again? [10 = Enthusiastic yes, 5 = Mixed, 0 = Many regrets]
+
+**CALCULATE: STUDENT SATISFACTION SCORE = [X]/10**
+
+---
+
+## 7.7 STANDARDIZED OUTPUT FOR COMPARISON
+
+**STUDENT EXPERIENCE CARD**
+
+```
+UNIVERSITY: [Name]
+
+FORUM ACTIVITY:
+- r/[university]: [X] members, Activity: [High/Medium/Low]
+- Overall forum presence: [Active/Moderate/Limited]
+
+ACADEMIC EXPERIENCE:
+- Course Quality: [Excellent/Good/Mixed/Poor]
+- Workload: [Intense/Manageable/Relaxed]
+- Teaching: [Excellent/Good/Mixed/Poor]
+- Grade Deflation: [YES - evident / Fair / Inflation]
+
+RESEARCH ACCESS:
+- Reality: [Accessible/Competitive/Very Difficult]
+- Faculty Support: [Approachable/Mixed/Distant]
+
+STUDENT CULTURE:
+- Vibe: [Collaborative/Competitive/Cutthroat]
+- Social Balance: [Good/Academics-Heavy/Party]
+- International Integration: [Excellent/Good/Challenging]
+
+TOP COMPLAINTS:
+1. [Issue 1]
+2. [Issue 2]
+3. [Issue 3]
+
+TOP PRAISES:
+1. [Strength 1]
+2. [Strength 2]
+3. [Strength 3]
+
+ADMISSION INSIGHTS:
+- What stands out: [Research experience, high scores, unique story]
+- Common mistakes: [Generic essays, no demonstrated interest]
+
+STUDENT SATISFACTION SCORE: [X]/10
+
+NOTABLE QUOTES:
+1. "[Positive quote from reddit]"
+2. "[Warning/negative quote]"
+3. "[Balanced perspective]"
+```
+
+---
+
+## 7.8 CRITICAL QUESTIONS CHECKLIST
+
+Before moving to next section:
+- [ ] University subreddit and forums identified
+- [ ] Course quality opinions synthesized (quote 3-5 comments)
+- [ ] Workload and difficulty assessed
+- [ ] Research accessibility evaluated from student perspectives
+- [ ] Student culture characterized (collaborative vs competitive)
+- [ ] Top 3-5 complaints identified
+- [ ] Top 3-5 praises identified
+- [ ] International student experiences noted
+- [ ] Ukrainian student mentions searched (found or not found)
+- [ ] Admission insights gathered
+- [ ] Student Satisfaction Score calculated
+
+---
+
+## ⚠️ FINAL REMINDER ⚠️
+
+**VERIFY YOUR WORK:**
+- Every URL you included came from actual search results (not generated by you)
+- Every Reddit post, student review, and testimonial came from search results
+- Any information you couldn't find is clearly marked as "Information not available"
+- You did NOT fabricate or guess any information
+
+**If you generated fake links or data, your report is INVALID. Only real search results are acceptable.**

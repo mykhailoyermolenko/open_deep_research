@@ -1,0 +1,291 @@
+## ⚠️ CRITICAL RESEARCH INSTRUCTIONS ⚠️
+
+**YOU MUST USE YOUR SEARCH TOOLS TO FIND REAL INFORMATION.**
+
+- DO NOT generate, fabricate, or invent ANY URLs, links, citations, or data
+- DO NOT make up research labs, faculty names, or publication details
+- If you cannot find specific information through search, explicitly state: "Information not available through search"
+- ONLY include URLs and data that were provided to you through actual search tool results
+- When you lack information on any topic, clearly state that it could not be found rather than guessing
+
+**Your search tools are your ONLY source of truth. Use them extensively.**
+
+---
+
+TARGET: [University Name]
+Extra: [Bachelor full name]
+
+## SECTION 5: RESEARCH ECOSYSTEM & OPPORTUNITIES
+
+### OBJECTIVE:
+Evaluate research infrastructure, faculty quality, and undergraduate research accessibility for comparison.
+
+---
+
+## 5.1 MAJOR AI/ML RESEARCH LABS & CENTERS
+
+### IDENTIFY 3-5 KEY LABS RELEVANT TO AI/ML
+
+**For EACH lab, document:**
+
+### LAB #1: [Lab/Center Name]
+- **Full Name:** [X Lab / Y Center for AI]
+- **Director/PI:** [Professor Name]
+- **Official URL:** [Link to lab page]
+
+**Research Focus:**
+- Primary areas: [e.g., Large Language Models, Computer Vision, Robotics, AI Safety]
+- Specific projects:
+  1. [Project name - brief description]
+  2. [Project name - brief description]
+  3. [Project name - brief description]
+
+**Publications & Impact:**
+- Top venues: [NeurIPS, ICML, ICLR, CVPR, ACL, etc. - where do they publish]
+- Recent notable papers (last 2 years): [1-2 examples with impact]
+- Citation count or h-index of lab/director: [If available]
+
+**Industry Partnerships:**
+- Collaborations with: [Google, Meta, NVIDIA, OpenAI, etc.]
+- Funding sources: [NSF, EU Horizon, ERC grants, industry sponsors]
+- Amount of funding: €[X] (if publicly available)
+
+**Undergraduate Involvement:**
+- **Can undergrads work in this lab:** YES / NO / UPPER YEARS ONLY
+- Evidence of undergrad participation: [Past undergrad authors on papers, lab website mentions]
+- How competitive: [Very selective / Moderate / Accessible]
+
+**Computing Resources:**
+- Lab-specific resources: [GPU clusters, specialized hardware]
+- Types of GPUs: [A100, H100, V100, etc.]
+- Undergraduate access: YES / NO / LIMITED
+
+---
+
+### LAB #2: [Lab Name]
+[Repeat structure for Lab #2]
+
+### LAB #3: [Lab Name]
+[Repeat structure for Lab #3]
+
+**Continue for 3-5 major labs relevant to student's interests**
+
+---
+
+## 5.2 KEY FACULTY (Potential Mentors)
+
+### IDENTIFY 4-6 PROFESSORS MOST RELEVANT TO STUDENT
+
+**For EACH professor:**
+
+### PROFESSOR #1: [Full Name]
+- **Title:** [Professor / Associate Professor / Assistant Professor]
+- **Department:** [Computer Science / Engineering / AI Institute]
+- **Lab/Group:** [Name of research group]
+- **Official Profile:** [URL]
+- **Google Scholar:** [URL]
+- **Email:** [email@university.edu]
+
+**Research Interests (Specific):**
+- Primary areas: [e.g., "Large Language Models, Efficient Training, AI Safety"]
+- Specific topics: [e.g., "Transformer optimization, RLHF, interpretability"]
+
+**Recent Publications (Last 2 Years):**
+1. **[Paper Title]** - [Venue] - [Year]
+   - Significance: [Brief note on impact/citations]
+   - [URL to paper]
+2. **[Paper Title]** - [Venue] - [Year]
+   - [Brief significance]
+3. [Continue for 3-5 notable recent papers]
+
+**Notable Achievements:**
+- Awards: [Best Paper, NSF CAREER, ERC Grant, etc.]
+- Leadership: [Conference organization, editorial boards]
+- Industry recognition: [Keynotes, advisory roles]
+
+**Teaching (Undergraduate):**
+- Courses taught to undergrads: [List]
+- Teaching quality: [If findable from reviews - "Highly rated" / "Mixed" / Unknown]
+
+**Undergraduate Mentorship:**
+- **Evidence of working with undergrads:** YES / NO / UNCLEAR
+  - Check lab webpage for undergrad researchers
+  - Check papers for undergrad co-authors
+  - Student testimonials
+- Mentorship style: [If findable - "Very accessible" / "Selective" / Unknown]
+
+**Relevance to Student:**
+"Prof. [X]'s work on [specific topic] directly aligns with student's interest in [area]. [He/She] has a track record of [mentoring undergrads / publishing in top venues / etc.]."
+
+**Contact Appropriateness:**
+- Good to reach out: YES (after acceptance, with specific question) / NO (unlikely to respond)
+
+---
+
+### PROFESSOR #2-6:
+[Repeat structure for each professor]
+
+---
+
+## 5.3 COMPUTING INFRASTRUCTURE & RESOURCES
+
+### A. HIGH-PERFORMANCE COMPUTING (HPC)
+
+**University HPC Cluster:**
+- **Name:** [e.g., "X Supercomputer," "Y Computing Cluster"]
+- **Official URL:** [HPC center page]
+
+**Specifications:**
+- **CPU Resources:** [# of nodes, cores, total TFLOPS]
+- **GPU Resources:** ★ CRITICAL FOR AI ★
+  * **Types:** [NVIDIA A100 / H100 / V100 / RTX / etc.]
+  * **Quantity:** [X] GPUs total
+  * **Memory per GPU:** [X] GB
+- **Storage:** [X] PB or TB
+- **Interconnect:** [InfiniBand, Ethernet speed]
+
+**Access for Undergraduates:**
+- **Can undergrads use HPC:** YES / NO / LIMITED (course-related only)
+- **How to get access:** [Request form, faculty sponsorship, class enrollment]
+- **Priority:** [Research projects / Coursework / Open to all]
+- **Training provided:** [Workshops, documentation]
+- **Cost:** FREE / Must pay for compute time
+
+**Job Scheduling:**
+- System: [Slurm, PBS, other]
+- Queue wait times: [Estimate - Short / Medium / Long]
+
+---
+
+### B. CLOUD COMPUTING CREDITS
+
+**Does university provide cloud credits?**
+- **AWS:** [YES - $X per student per year / NO]
+- **Google Cloud:** [YES - $X / NO]
+- **Azure:** [YES - $X / NO]
+- **Total potential credits:** $[X] per year
+
+---
+
+### C. SOFTWARE & TOOLS
+
+**Site Licenses Available:**
+- MATLAB: YES/NO
+- Mathematica: YES/NO
+- PyCharm/JetBrains: YES/NO (via GitHub Student Pack)
+- Specialized ML tools: [TensorFlow, PyTorch - usually free but mention if university support]
+
+---
+
+### D. LABS & MAKER SPACES
+
+**Relevant to AI/Robotics:**
+- Robotics labs: [Names, equipment]
+- Hardware prototyping: [3D printing, electronics]
+- Access for undergrads: [Open / By permission]
+
+---
+
+## 5.4 RESEARCH PUBLICATIONS & OUTPUT
+
+**Department Research Metrics:**
+- **Faculty publications per year:** [X] (if available)
+- **Top publication venues:** [NeurIPS, ICML, CVPR, etc. - list where dept publishes most]
+- **Research funding:** €[X] per year (if available)
+
+**Undergraduate Research Output:**
+- **Do undergrads co-author papers:** YES - Evidence: [Examples] / RARELY / UNKNOWN
+- **Undergraduate research conference:** [University hosts its own YES/NO]
+- **Capstone thesis publication:** [Are theses publicly available - URL to repository]
+
+---
+
+## 5.5 RESEARCH OPPORTUNITY SCORE (For Comparison)
+
+### SCORING CRITERIA (0-10 scale):
+
+**Faculty Quality:**
+- Number of relevant faculty (in student's interests): [10 = 6+, 5 = 3-5, 0 = 0-2]
+- Faculty research impact: [10 = Top-tier (h-index 50+), 5 = Strong, 0 = Low]
+
+**Lab Access:**
+- Undergraduate research opportunities: [10 = Many accessible, 5 = Some competitive, 0 = Very limited]
+- Evidence of undergrad involvement: [10 = Common, 5 = Some, 0 = Rare]
+
+**Computing Resources:**
+- GPU availability for undergrads: [10 = Many A100/H100s accessible, 5 = Some older GPUs, 0 = No access]
+- HPC access: [10 = Open to undergrads, 5 = Limited, 0 = Not available]
+
+**Research Support:**
+- Funding for undergrad research: [10 = Paid positions common, 5 = Some funding, 0 = Volunteer only]
+- Publication opportunities: [10 = Undergrads co-author regularly, 5 = Occasionally, 0 = Rare]
+
+**CALCULATE: RESEARCH OPPORTUNITY SCORE = [X]/10**
+
+---
+
+## 5.6 STANDARDIZED OUTPUT FOR COMPARISON
+
+**RESEARCH ECOSYSTEM CARD**
+
+```
+UNIVERSITY: [Name]
+
+RESEARCH LABS:
+- Major AI/ML labs: [X]
+- Relevant to student interests: [Y]
+- Undergrad-accessible: [Z]
+
+KEY FACULTY:
+- Professors in AI/ML/Systems: [X]
+- Top-tier researchers (h-index 50+): [Y]
+- Evidence of undergrad mentorship: [YES/SOME/NO]
+
+TOP 3 MOST RELEVANT PROFESSORS:
+1. [Name] - [Research area]
+2. [Name] - [Research area]
+3. [Name] - [Research area]
+
+COMPUTING RESOURCES:
+- HPC Available: [YES/NO]
+- GPUs for undergrads: [Type and quantity] / [Not accessible]
+- Cloud credits: $[X]/year
+
+UNDERGRADUATE RESEARCH:
+- UROP Program: [YES/NO]
+- Paid positions: [YES/NO - Stipend €X]
+- Undergrad co-authorship: [Common/Occasional/Rare]
+- Research integration: [Strong/Moderate/Weak]
+
+RESEARCH OPPORTUNITY SCORE: [X]/10
+
+ASSESSMENT:
+[Excellent for research-minded student / Good opportunities / Limited / Poor]
+```
+
+---
+
+## 5.7 CRITICAL QUESTIONS CHECKLIST
+
+Before moving to next section:
+- [ ] 3-5 major AI/ML labs identified with URLs
+- [ ] 4-6 relevant faculty profiles documented
+- [ ] Faculty research quality assessed (recent papers, venues, impact)
+- [ ] Evidence of undergraduate mentorship found (or noted as unclear)
+- [ ] HPC specifications documented (especially GPU types and quantity)
+- [ ] Undergraduate HPC access confirmed
+- [ ] UROP or research programs investigated
+- [ ] Research Opportunity Score calculated
+- [ ] All URLs provided
+
+---
+
+## ⚠️ FINAL REMINDER ⚠️
+
+**VERIFY YOUR WORK:**
+- Every URL you included came from actual search results (not generated by you)
+- Every research lab, faculty name, and publication detail came from search results
+- Any information you couldn't find is clearly marked as "Information not available"
+- You did NOT fabricate or guess any information
+
+**If you generated fake links or data, your report is INVALID. Only real search results are acceptable.**

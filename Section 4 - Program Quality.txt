@@ -1,0 +1,315 @@
+## ⚠️ CRITICAL RESEARCH INSTRUCTIONS ⚠️
+
+**YOU MUST USE YOUR SEARCH TOOLS TO FIND REAL INFORMATION.**
+
+- DO NOT generate, fabricate, or invent ANY URLs, links, citations, or data
+- DO NOT make up course names, curriculum details, or program information
+- If you cannot find specific information through search, explicitly state: "Information not available through search"
+- ONLY include URLs and data that were provided to you through actual search tool results
+- When you lack information on any topic, clearly state that it could not be found rather than guessing
+
+**Your search tools are your ONLY source of truth. Use them extensively.**
+
+---
+
+TARGET: [University Name] [Bachelor full name]
+
+## SECTION 4: PROGRAM QUALITY & CURRICULUM ANALYSIS
+
+### OBJECTIVE:
+Evaluate academic strength and curriculum alignment with student's AI research interests for comparison.
+
+---
+
+## 4.1 UNIVERSITY RANKINGS & REPUTATION
+
+### OVERALL RANKINGS
+- **QS World University Rankings:** #[X] [Year] [URL]
+- **Times Higher Education:** #[Y] [Year] [URL]
+- **Academic Ranking of World Universities (ARWU):** #[Z] [Year] [URL]
+
+### COMPUTER SCIENCE SPECIFIC RANKINGS
+- **QS CS & Information Systems:** #[X] [Year] [URL]
+- **THE Computer Science:** #[Y] [Year] [URL]
+- **US News CS Rankings:** #[Z] [Year] [URL]
+- **CSRankings.org (Research):**
+  * AI: #[X]
+  * Systems: #[Y]
+  * Theory: #[Z]
+  * [URL to csrankings.org]
+
+**RANKING TREND:** Rising / Stable / Declining (compare 3-5 year data)
+
+**REPUTATION SUMMARY:**
+- Tier 1 (Top 50 globally) / Tier 2 (Top 100) / Tier 3 (Top 200) / Tier 4 (200+)
+- Regional reputation: [Strong/Medium/Weak]
+- Industry recognition: [High/Medium/Low]
+
+---
+
+## 4.2 PROGRAM STRUCTURE BASICS
+
+**Degree Information:**
+- **Official Title:** [Full program name]
+- **Degree Awarded:** [B.S. / B.Sc. / B.Eng.] in [X]
+- **Duration:** [3 years / 4 years]
+- **Total Credits:** [X] ECTS or credits
+- **Department:** [Computer Science / Engineering / Other]
+- **Accreditation:** [Professional accreditations: ABET, EUR-ACE, etc.] [URLs]
+
+**Program Philosophy:**
+- Research-oriented / Applied/Professional / Balanced
+- Theoretical emphasis: [High/Medium/Low]
+- Practical emphasis: [High/Medium/Low]
+
+---
+
+## 4.3 CURRICULUM ANALYSIS (Alignment with Student Profile)
+
+### A. MATHEMATICAL FOUNDATIONS ★ Critical for AI
+
+**Required Math Courses:**
+- **Linear Algebra:** [Course code & name] [Credits] [URL]
+  * Topics: Vectors, matrices, eigenvalues, SVD
+- **Calculus:** [Single/Multivariable/Vector - courses] [Credits] [URL]
+- **Probability & Statistics:** [Course names] [Credits] [URL]
+- **Optimization:** [Course name if exists - important for ML!] [Credits] [URL]
+- **Other Advanced Math:** Differential Equations, Complex Analysis, etc.
+
+**MATH STRENGTH:** [Strong / Adequate / Weak]
+- Is there enough rigorous math for ML research? YES/NO
+
+---
+
+### B. CORE COMPUTER SCIENCE
+
+**Foundational Courses:**
+- **Programming:** Languages covered [Python, Java, C++, etc.]
+- **Data Structures & Algorithms:** [Courses] [Credits]
+- **Theory of Computation:** [Course] (Automata, complexity theory)
+- **Computer Architecture:** [Course]
+- **Operating Systems:** [Course]
+- **Databases:** [Course]
+
+**CS FOUNDATION:** [Strong / Standard / Weak]
+
+---
+
+### C. ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ★★★ Most Important
+
+**Core AI/ML Courses (Required):**
+1. **Introduction to AI:** [Course name, code] [Credits] [URL]
+   - Topics: Search, logic, knowledge representation
+2. **Machine Learning:** [Course name] [Credits] [URL]
+   - Topics: Supervised, unsupervised, evaluation, algorithms
+3. **Deep Learning:** [Course name] [Credits] [URL] ★ CRITICAL ★
+   - Topics: Neural networks, CNNs, RNNs, **Transformers?** ← KEY QUESTION
+4. **[Other core ML courses]**
+
+**Advanced AI/ML Electives (Available):**
+- **Natural Language Processing (NLP):** [Course] [URL]
+  * Modern LLMs covered? YES/NO
+- **Computer Vision:** [Course] [URL]
+- **Reinforcement Learning:** [Course] [URL]
+- **Probabilistic Graphical Models:** [Course] [URL]
+- **Advanced Deep Learning / Generative AI:** [Course] [URL]
+- **AI for Robotics:** [Course] [URL]
+- **[List all AI/ML electives]**
+
+**AI/ML CURRICULUM STRENGTH:** [Excellent / Strong / Adequate / Limited]
+**Modern AI Coverage (LLMs, Transformers, Diffusion):** [Excellent / Good / Outdated]
+
+---
+
+### D. HIGH-PERFORMANCE COMPUTING & SYSTEMS ★★★ Critical for Student
+
+**Systems Programming:**
+- **C/C++ Programming:** [Course] [Credits] [URL]
+- **Systems Programming:** [Course] (Memory, concurrency, I/O)
+- **Compilers:** [Course if exists]
+- **Operating Systems:** [Course]
+
+**Parallel & Distributed Computing:**
+- **Parallel Computing:** [Course] [URL]
+- **Distributed Systems:** [Course] [URL]
+- **High-Performance Computing (HPC):** [Course] [URL]
+
+**★★★ GPU PROGRAMMING (CUDA) ★★★**
+- **CUDA/GPU Programming Course:** [Exists: YES/NO] [Course name] [URL]
+- **If NO dedicated course:** Is CUDA covered in other courses? [Which ones?]
+- **This is CRITICAL for modern AI/ML work!**
+
+**SYSTEMS/HPC STRENGTH:** [Excellent / Strong / Adequate / Weak]
+**CUDA Access:** [Dedicated course / Covered partially / Not covered]
+
+---
+
+### E. AI SAFETY & ALIGNMENT ★ Important for Student
+
+**Technical AI Safety Courses:**
+- **AI Safety:** [Course name if exists] [URL]
+  * Topics: Robustness, interpretability, alignment, adversarial ML
+- **Fairness, Accountability, Transparency in ML:** [Course] [URL]
+- **AI Ethics:** [Course] [URL]
+  * **CRITICAL:** Is this technical or just policy/philosophy?
+  * Technical = Good / Policy-only = Less relevant
+
+**AI SAFETY COVERAGE:** [Strong technical focus / Some coverage / Mainly policy / None]
+
+---
+
+## 4.4 CURRICULUM FLEXIBILITY & ELECTIVES
+
+**Elective Credits:**
+- Total elective credits: [X] out of [Y] total
+- **Freedom to choose AI courses:** [High / Medium / Limited]
+- Can take graduate courses as undergrad: YES/NO
+
+**Cross-Disciplinary Options:**
+- Math department courses: [Can take advanced math YES/NO]
+- Physics, neuroscience, other relevant fields: [Accessible YES/NO]
+
+**Online/External Course Credit:**
+- Can transfer MOOCs/external courses: YES/NO (useful for gaps)
+
+---
+
+## 4.5 CAPSTONE & RESEARCH INTEGRATION
+
+**Final Year Thesis/Project:**
+- **Required:** YES/NO
+- **Format:**
+  * Individual research thesis with faculty
+  * Industry capstone project
+  * Group software project
+  * Student's choice
+- **Duration:** [One semester / Full year]
+- **Can be in AI/ML:** YES/NO
+
+**Undergraduate Research Opportunities:**
+- **UROP (Undergraduate Research Program):** Exists YES/NO [URL]
+  * When can students apply: [Year 1 / Year 2 / Year 3]
+  * Paid positions: YES/NO (Stipend: €[X])
+  * Competitive or accessible: [Assessment]
+- **Independent Study Credits:** Available YES/NO
+- **Summer Research Programs:** [Name] [Paid €[X]] [URL]
+
+**Research Integration:** [Strong - Many opportunities / Moderate / Limited / Poor]
+
+---
+
+## 4.6 CURRICULUM GAPS & WEAKNESSES
+
+**Identified Gaps:**
+1. [e.g., "No dedicated AI safety course - student must self-study"]
+2. [e.g., "Limited coverage of modern LLMs - field evolving rapidly"]
+3. [e.g., "No CUDA course - would need to learn independently"]
+4. [e.g., "Course X only offered every 2 years - scheduling challenge"]
+
+**Mitigations:**
+- Can gaps be filled with electives from other departments?
+- Can student supplement with online courses (FastAI, Coursera, etc.)?
+- Are there resources for self-directed learning?
+
+---
+
+## 4.7 CURRICULUM ALIGNMENT SCORE (For Comparison)
+
+### SCORING CRITERIA (0-10 scale):
+
+**Math Foundation:**
+- Rigor of linear algebra, optimization, probability: [Score 0-10]
+
+**AI/ML Core:**
+- Quality and modernity of ML/DL courses: [Score 0-10]
+- Coverage of Transformers/modern architectures: [+2 bonus if explicit]
+
+**Systems/HPC:**
+- C++, parallel computing, systems courses: [Score 0-10]
+- CUDA/GPU programming: [+2 bonus if dedicated course, +1 if covered]
+
+**AI Safety:**
+- Technical AI safety courses: [+2 bonus if strong, +1 if exists, 0 if none]
+
+**Flexibility:**
+- Electives and research opportunities: [Score 0-10]
+
+**CALCULATE: CURRICULUM ALIGNMENT SCORE = [X]/10**
+
+**INTERPRETATION:**
+- 8-10: Excellent alignment, curriculum matches student perfectly
+- 6-7: Good alignment, minor gaps fillable
+- 4-5: Adequate but notable gaps
+- 0-3: Poor alignment, major gaps
+
+---
+
+## 4.8 STANDARDIZED OUTPUT FOR COMPARISON
+
+**PROGRAM QUALITY CARD**
+
+```
+UNIVERSITY: [Name]
+PROGRAM: [Name]
+DURATION: [3/4 years]
+
+RANKINGS:
+- QS World: #[X]
+- QS CS: #[Y]
+- Tier: [1/2/3/4]
+
+CURRICULUM STRENGTHS:
+- Math Foundation: [Strong/Adequate/Weak]
+- AI/ML Core: [Strong/Adequate/Weak]
+  * Modern AI (LLMs, Transformers): [Yes/Partial/No]
+- Systems/HPC: [Strong/Adequate/Weak]
+  * CUDA: [Dedicated course/Covered/Not covered]
+- AI Safety: [Strong technical/Some/None]
+
+RESEARCH OPPORTUNITIES:
+- UROP: [YES/NO]
+- Thesis Required: [YES/NO]
+- Research Integration: [Strong/Moderate/Limited]
+
+FLEXIBILITY:
+- Elective Freedom: [High/Medium/Low]
+- Graduate Course Access: [YES/NO]
+
+CURRICULUM GAPS:
+1. [Gap 1]
+2. [Gap 2]
+3. [Gap 3]
+
+CURRICULUM ALIGNMENT SCORE: [X]/10
+
+OVERALL ASSESSMENT:
+[Excellent fit / Good fit / Acceptable with gaps / Poor fit]
+```
+
+---
+
+## 4.9 CRITICAL QUESTIONS CHECKLIST
+
+Before moving to next section:
+- [ ] University rankings documented (overall + CS-specific)
+- [ ] Program duration and structure confirmed
+- [ ] Math courses identified (linear algebra, optimization critical!)
+- [ ] AI/ML courses listed (Deep Learning course? Transformers covered?)
+- [ ] Systems/HPC courses documented (C++, parallel, CUDA!)
+- [ ] AI safety course availability checked
+- [ ] Research opportunities investigated (UROP, thesis)
+- [ ] Curriculum gaps identified
+- [ ] Curriculum Alignment Score calculated
+- [ ] All course URLs provided
+
+---
+
+## ⚠️ FINAL REMINDER ⚠️
+
+**VERIFY YOUR WORK:**
+- Every URL you included came from actual search results (not generated by you)
+- Every course name, curriculum detail, and program information came from search results
+- Any information you couldn't find is clearly marked as "Information not available"
+- You did NOT fabricate or guess any information
+
+**If you generated fake links or data, your report is INVALID. Only real search results are acceptable.**

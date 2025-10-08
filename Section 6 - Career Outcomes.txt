@@ -1,0 +1,343 @@
+## ⚠️ CRITICAL RESEARCH INSTRUCTIONS ⚠️
+
+**YOU MUST USE YOUR SEARCH TOOLS TO FIND REAL INFORMATION.**
+
+- DO NOT generate, fabricate, or invent ANY URLs, links, citations, or data
+- DO NOT make up employment statistics, company names, or salary data
+- If you cannot find specific information through search, explicitly state: "Information not available through search"
+- ONLY include URLs and data that were provided to you through actual search tool results
+- When you lack information on any topic, clearly state that it could not be found rather than guessing
+
+**Your search tools are your ONLY source of truth. Use them extensively.**
+
+---
+
+TARGET: [University Name]
+Extra: [Bachelor full name]
+
+## SECTION 6: CAREER OUTCOMES & PLACEMENT
+
+### OBJECTIVE:
+Assess graduate employment success, salary data, and PhD placement for comparison across universities.
+
+---
+
+## 6.1 EMPLOYMENT STATISTICS
+
+### OVERALL PLACEMENT RATES
+- **Employment rate within 6 months of graduation:** [X]% [URL]
+- **CS/Engineering specific:** [Y]% (if available)
+- **International student employment:** [Z]% (if available - important!)
+- **Further education (grad school):** [W]% pursue Master's/PhD
+
+**Data Quality:**
+- Response rate: [X]% of graduates (higher = more reliable data)
+- Data source: [University career services report, [Year], [URL]]
+
+---
+
+### SALARY DATA
+
+**Average Starting Salary:**
+- **All graduates:** €[X] or $[Y] per year [URL]
+- **CS/AI graduates specifically:** €[X] or $[Y] per year (if available)
+- **Convert to EUR for comparison:** €[X]
+
+**Salary Range:**
+- **25th percentile:** €[X]
+- **Median (50th percentile):** €[Y]
+- **75th percentile:** €[Z]
+
+**Geographic Variation:**
+- Salaries in host country: €[X]
+- Salaries in US (if grads go there): $[Y] = €[Z]
+- Salaries in other countries: [List if significant]
+
+**Salary Comparison Note:**
+- Cost of living adjusted comparison important
+- €50k in Eastern Europe ≠ €50k in Switzerland/London
+
+---
+
+## 6.2 TOP EMPLOYERS & INDUSTRY PLACEMENT
+
+### COMPANIES THAT RECRUIT FROM THIS PROGRAM
+
+**Create categorized list:**
+
+**A. BIG TECH (FAANG+):**
+- [ ] Google / Alphabet
+- [ ] Meta / Facebook
+- [ ] Amazon
+- [ ] Apple
+- [ ] Microsoft
+- [ ] Netflix
+- [ ] Other: [List]
+
+**B. AI-SPECIFIC COMPANIES & LABS:**
+- [ ] OpenAI
+- [ ] Anthropic
+- [ ] DeepMind
+- [ ] Hugging Face
+- [ ] Stability AI
+- [ ] AI research labs: [List]
+
+**C. TECH UNICORNS & GROWTH COMPANIES:**
+- [ ] Stripe, Airbnb, Uber, etc.
+- [ ] [List companies relevant to region]
+
+**D. CONSULTING & FINANCE:**
+- [ ] McKinsey (Digital/QuantumBlack)
+- [ ] BCG (Gamma, X)
+- [ ] Bain
+- [ ] Trading firms: [Jane Street, Citadel, etc.]
+- [ ] Quant finance: [Two Sigma, DE Shaw, etc.]
+
+**E. NATIONAL CHAMPIONS & LOCAL TECH:**
+- [ ] [Country-specific major companies]
+- [ ] Local startups: [Names if significant]
+
+**EMPLOYER QUALITY ASSESSMENT:**
+- **Tier 1 employers (FAANG, top AI labs, elite consulting):** [X] companies actively recruit
+- **Tier 2 employers (solid tech companies, good salaries):** [Y] companies
+- **Startup ecosystem access:** [Strong / Moderate / Limited]
+
+---
+
+### CAREER FAIR & RECRUITING
+
+**On-Campus Recruiting:**
+- **Career fairs per year:** [X] (Fall, Spring, etc.)
+- **Companies attending:** [X] total, [Y] tech companies
+- **Dedicated CS/tech career fair:** YES/NO
+- [URL to career fair info]
+
+**Company Info Sessions:**
+- Frequency: [X] per semester
+- Top companies visiting: [List notable ones]
+
+---
+
+## 6.3 PHD PLACEMENT (For Research-Oriented Students)
+
+### GRADUATE SCHOOL OUTCOMES
+
+**PhD Placement Rate:**
+- **% of graduates going to PhD programs:** [X]%
+- **CS/AI specifically:** [Y]% (if available)
+
+**Quality of PhD Programs:**
+**Search for evidence of where graduates are accepted:**
+
+**Top-Tier Programs (Top 10-20 globally):**
+- MIT, Stanford, CMU, Berkeley, Oxford, Cambridge, ETH, etc.
+- **Evidence of acceptance:** [Found examples YES/NO]
+- **How many per year (estimate):** [X] students
+
+**Strong Programs (Top 50):**
+- [Universities where grads go]
+- [List if found]
+
+**Regional Programs:**
+- [Local universities where students continue]
+
+**PhD PLACEMENT QUALITY:** [Excellent / Good / Moderate / Limited]
+
+**Sources:**
+- Alumni profiles on LinkedIn
+- Department PhD placement list (if published)
+- Student testimonials
+
+---
+
+### MASTER'S PROGRAMS
+
+**% pursuing Master's:** [X]%
+**Common destinations:** [Universities]
+**At same university:** [Y]% stay for integrated Master's
+
+---
+
+## 6.4 ALUMNI NETWORK & PROFILES
+
+### LINKEDIN ANALYSIS
+
+**Search Strategy:**
+"[University Name] Computer Science" OR "[University Name] [Program Name]" on LinkedIn
+
+**Alumni Count in AI/ML:**
+- **Total CS/AI alumni on LinkedIn:** ~[X]
+- **Working in AI/ML roles:** ~[Y] (search: "Machine Learning Engineer," "AI Researcher," "Data Scientist")
+- **At FAANG companies:** ~[Z]
+- **At top AI labs (OpenAI, DeepMind, etc.):** ~[W]
+
+**Notable Alumni (if identifiable):**
+1. [Name] - [Current role] - [Company/University]
+2. [Name] - [Current role] - [Company/University]
+3. [Continue for 3-5 if notable]
+
+**Alumni Trajectory Examples:**
+- "Typical path: B.S. → [Company X] for 2 years → [Top PhD program OR senior role at Y]"
+- [Describe common career progressions]
+
+**Alumni Network Strength:**
+- **Active alumni association:** YES/NO [URL]
+- **Mentorship programs:** [Alumni mentor students YES/NO]
+- **LinkedIn group:** [Active with X members YES/NO]
+- **Geographic reach:** [Regional / National / Global]
+
+**NETWORK QUALITY:** [Strong and globally connected / Moderate / Limited]
+
+---
+
+## 6.5 CAREER SERVICES & SUPPORT
+
+**Career Office:**
+- **Name:** [Career Services / Professional Development Center]
+- **URL:** [Link]
+
+**Services for Tech Students:**
+- Resume/CV reviews: [Available - frequency]
+- Mock technical interviews: YES/NO
+- Coding interview prep: [Workshops, resources]
+- LeetCode/technical prep support: [Formal program YES/NO]
+- Alumni networking events: [X] per year
+- Online job portal: [Platform name - Handshake, etc.]
+
+**International Student Support:**
+- Visa/work authorization guidance: YES/NO
+- International employer connections: [Quality]
+- OPT/post-study work visa help: YES/NO (if US/relevant)
+
+**Career Services Quality:** [Excellent / Good / Adequate / Poor]
+(Based on student testimonials if findable)
+
+---
+
+## 6.6 INTERNSHIP OPPORTUNITIES & CO-OP
+
+**Internship Integration:**
+- **Formal co-op program:** YES/NO
+  - Structure: [Alternating semesters, summer only, optional]
+  - Duration: [X] months
+  - Paid: YES (average €[X]/month) / NO
+- **University partnerships with companies:** [List if significant]
+- **Internship support:** [Career services helps secure: YES/NO]
+
+**Internship Access for International Students:**
+- Can international students do internships: YES/NO
+- Visa/work permit challenges: [Easy / Moderate / Difficult]
+
+---
+
+## 6.7 ENTREPRENEURSHIP & STARTUPS
+
+**Startup Ecosystem:**
+- **University incubator/accelerator:** YES/NO [Name, URL]
+- **Funding available for student startups:** YES (€[X]) / NO
+- **Notable successful startups founded by alums:** [Examples if significant]
+
+**Entrepreneurship Support:**
+- Courses: [Entrepreneurship, startup courses available]
+- Competitions: [Pitch competitions, hackathons]
+- Investor connections: [VC network access]
+
+**STARTUP CULTURE:** [Strong / Moderate / Limited]
+
+---
+
+## 6.8 CAREER OUTCOMES SCORE (For Comparison)
+
+### SCORING CRITERIA (0-10 scale):
+
+**Employment Rate:**
+- Within 6 months: [10 = >95%, 5 = 80-90%, 0 = <70%]
+
+**Employer Quality:**
+- FAANG + top AI labs recruiting: [10 = Many, 5 = Some, 0 = Few/None]
+- Breadth of opportunities: [10 = Diverse top employers, 0 = Limited options]
+
+**Salary:**
+- Average starting salary: [10 = >€70k, 5 = €50-60k, 0 = <€40k]
+  (Adjust for cost of living in region)
+
+**PhD Placement:**
+- Top PhD program acceptance: [10 = Regularly to top 20, 5 = Some to top 50, 0 = Rare]
+
+**Alumni Network:**
+- Network strength and reach: [10 = Strong global network, 5 = Moderate, 0 = Weak]
+
+**CALCULATE: CAREER OUTCOMES SCORE = [X]/10**
+
+---
+
+## 6.9 STANDARDIZED OUTPUT FOR COMPARISON
+
+**CAREER OUTCOMES CARD**
+
+```
+UNIVERSITY: [Name]
+PROGRAM: [Name]
+
+EMPLOYMENT:
+- Rate (6 months): [X]%
+- Average Salary: €[X] (Converted to EUR)
+- Salary Range: €[25th %] - €[Median] - €[75th %]
+
+TOP EMPLOYERS:
+- FAANG: [X companies recruit]
+- AI Labs: [Companies like OpenAI, DeepMind recruit: YES/NO]
+- Top Tech: [List 5-10 notable employers]
+
+EMPLOYER QUALITY:
+- Tier 1 employers: [X] companies
+- Overall placement quality: [Excellent/Good/Moderate/Poor]
+
+PHD PLACEMENT:
+- Rate: [X]% to PhD programs
+- Top programs (Top 20): [YES - evidence found / SOME / NO]
+- Quality: [Excellent/Good/Moderate/Limited]
+
+ALUMNI NETWORK:
+- LinkedIn CS/AI alumni: ~[X]
+- At top companies: ~[Y]
+- Network strength: [Strong/Moderate/Weak]
+- Geographic reach: [Global/National/Regional]
+
+CAREER SUPPORT:
+- Career services: [Excellent/Good/Adequate/Poor]
+- Internship program: [YES/NO]
+- International student support: [Strong/Moderate/Limited]
+
+CAREER OUTCOMES SCORE: [X]/10
+
+ASSESSMENT:
+[Excellent outcomes / Strong placement / Adequate / Concerning]
+```
+
+---
+
+## 6.10 CRITICAL QUESTIONS CHECKLIST
+
+Before moving to next section:
+- [ ] Employment rate documented with URL
+- [ ] Salary data found and converted to EUR
+- [ ] Top employers identified (FAANG, AI labs, etc.)
+- [ ] PhD placement quality assessed
+- [ ] LinkedIn alumni analysis conducted (rough count)
+- [ ] Career services quality evaluated
+- [ ] International student outcomes considered
+- [ ] Career Outcomes Score calculated
+- [ ] All claims have sources/URLs
+
+---
+
+## ⚠️ FINAL REMINDER ⚠️
+
+**VERIFY YOUR WORK:**
+- Every URL you included came from actual search results (not generated by you)
+- Every employment statistic, company name, and salary data came from search results
+- Any information you couldn't find is clearly marked as "Information not available"
+- You did NOT fabricate or guess any information
+
+**If you generated fake links or data, your report is INVALID. Only real search results are acceptable.**

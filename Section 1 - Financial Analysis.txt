@@ -1,0 +1,384 @@
+## ⚠️ CRITICAL RESEARCH INSTRUCTIONS ⚠️
+
+**YOU MUST USE YOUR SEARCH TOOLS TO FIND REAL INFORMATION.**
+
+- DO NOT generate, fabricate, or invent ANY URLs, links, citations, or data
+- DO NOT make up tuition costs, scholarship names, or financial details
+- If you cannot find specific information through search, explicitly state: "Information not available through search"
+- ONLY include URLs and data that were provided to you through actual search tool results
+- When you lack information on any topic, clearly state that it could not be found rather than guessing
+
+**Your search tools are your ONLY source of truth. Use them extensively.**
+
+---
+
+TARGET: [University Name]
+Extra: [Bachelor full name]
+
+## SECTION 1: FINANCIAL ANALYSIS
+## ★★★ PRIORITY #1 FOR COMPARISON ★★★
+
+### OBJECTIVE:
+Generate complete, comparable financial data to determine affordability and funding viability across universities.
+
+---
+
+## 1.1 TOTAL COST OF ATTENDANCE
+
+### ANNUAL BREAKDOWN (All amounts in EUR for comparison)
+
+**A. TUITION & MANDATORY FEES**
+- **Annual Tuition (International Students):** €[X] [URL]
+- **Mandatory Fees:** €[Y] [URL]
+  * Student union/association fee: €[X]
+  * Health services fee: €[X]
+  * Registration/admin fee: €[X]
+  * Technology/lab fee (for CS/Engineering): €[X]
+  * Other compulsory fees: €[X]
+- **TOTAL TUITION + FEES:** €[Z]
+
+**B. LIVING COSTS (University's Official Estimate)**
+[URL to cost of living page]
+
+- **Accommodation:**
+  * On-campus (cheapest option): €[X]/month × 12 = €[Y]/year
+  * On-campus (typical): €[X]/month × 12 = €[Y]/year
+  * Off-campus average: €[X]/month × 12 = €[Y]/year
+- **Food:** €[X]/month × 12 = €[Y]/year
+- **Transportation:** €[X]/month × 12 = €[Y]/year
+- **Health Insurance:** €[X]/year (mandatory? Yes/No)
+- **Books & Supplies:** €[X]/year
+- **Personal Expenses:** €[X]/year
+
+**TOTAL LIVING COSTS (Mid-range estimate):** €[Z]
+
+**C. ONE-TIME COSTS**
+- Application fee: €[X]
+- Visa/residence permit application: €[X]
+- Credential evaluation (if required): €[X]
+- Student deposit upon acceptance: €[X]
+- Initial setup (travel, winter clothing, etc.): €[X]
+
+---
+
+### TOTAL COST SUMMARY
+
+| Cost Component | Year 1 | Year 2 | Year 3 | Year 4 (if applicable) |
+|----------------|--------|--------|--------|------------------------|
+| Tuition + Fees | €[X] | €[X] | €[X] | €[X] |
+| Living Costs | €[Y] | €[Y] | €[Y] | €[Y] |
+| **ANNUAL TOTAL** | **€[Z]** | **€[Z]** | **€[Z]** | **€[Z]** |
+
+**4-YEAR TOTAL (including one-time costs):** €[TOTAL]
+
+**COST RANKING:** [Will rank among all universities: Low/Medium/High]
+
+---
+
+## 1.2 UKRAINIAN-SPECIFIC FINANCIAL SUPPORT
+
+### A. SEARCH EXHAUSTIVELY
+
+**Search Strategy:**
+- University international office pages (keywords: "Ukraine," "Ukrainian students," "refugee support")
+- News releases from March 2022 onwards
+- Emergency/crisis funding pages
+- Contact international office directly if unclear
+
+**CRITICAL QUESTION:** Does this university have ANY specific support for Ukrainian students?
+- **YES** → Document everything below
+- **NO** → State clearly: "No Ukrainian-specific financial support found" [URL confirming]
+
+---
+
+### B. UKRAINIAN SCHOLARSHIPS/GRANTS/WAIVERS
+
+**For EACH funding opportunity, document:**
+
+**FUNDING #1:**
+- **Official Name:** [X Scholarship/Grant for Ukrainian Students]
+- **Type:** Full tuition waiver / Partial tuition / Living stipend / One-time grant / Emergency fund
+- **Amount:** €[X] per year OR €[Y] one-time
+- **Number of Awards:** [X] students OR Not specified
+- **Eligibility:**
+  * Ukrainian citizenship required?
+  * Need-based or merit-based or automatic?
+  * Academic requirements (GPA, test scores)?
+  * Other criteria?
+- **Application Process:**
+  * Separate application: Yes/No
+  * Documents required: [List]
+  * Essay/statement required: Yes/No
+  * Deadline: [Date]
+  * Applied simultaneously with admission or after acceptance?
+- **Renewable:** All 4 years OR one-time
+  * Renewal requirements: [GPA X.X, full-time enrollment, etc.]
+- **Can Combine with Other Aid:** Yes/No
+- **Contact Person:** [Name, email] OR General office
+- **URL:** [Direct link to official page]
+
+**REPEAT for FUNDING #2, #3, etc.**
+
+---
+
+### C. EU TEMPORARY PROTECTION DIRECTIVE IMPACT
+
+**IF UNIVERSITY IS IN EU COUNTRY:**
+
+**CRITICAL RESEARCH:**
+1. Does host country implement EU Temporary Protection for Ukrainians? YES/NO
+2. **Do students under Temporary Protection qualify for DOMESTIC tuition rates?** YES/NO
+
+**If YES:**
+- **Domestic Tuition Rate:** €[X] per year [URL]
+- **International Tuition Rate:** €[Y] per year [URL]
+- **SAVINGS:** €[Y - X] per year × 4 years = **€[TOTAL SAVINGS]**
+  * This is a MASSIVE differentiator!
+- **How to Access:** [Process: Apply for TP status, provide proof of Ukraine residency before Feb 24, 2022]
+- **URL to official policy:** [University or government education ministry]
+
+**If NO or UNCERTAIN:**
+- State: "Domestic tuition rate for TP status holders: Not confirmed" [URL if available]
+
+**Other TP Benefits:**
+- Access to national student grants/loans: YES/NO
+- Government housing assistance: YES/NO
+- Transportation subsidies: YES/NO
+
+---
+
+### D. EMERGENCY/HARDSHIP FUNDS
+
+- Does university have emergency funds for students in crisis? YES/NO
+- Are Ukrainian students eligible? YES/NO
+- Typical amounts: €[X]
+- How to access: [Process]
+- URL: [Link]
+
+---
+
+## 1.3 MERIT-BASED SCHOLARSHIPS (All International Students)
+
+### COMPREHENSIVE SCHOLARSHIP MATRIX
+
+**For EACH scholarship, create entry:**
+
+| Scholarship Name | Annual Amount | 4-Year Total | # Awards | GPA Req | Test Score Req | Separate App | Deadline | Renewable | Can Combine | URL |
+|------------------|---------------|--------------|----------|---------|----------------|--------------|----------|-----------|-------------|-----|
+| Presidential Scholarship | €[X] | €[Y] | [Z] | [GPA] | [SAT/IB] | Yes/No | [Date] | Yes (GPA X) | Yes/No | [URL] |
+| [Continue for all scholarships found] | | | | | | | | | | |
+
+**Categories to Research:**
+- University-wide international scholarships
+- CS/Engineering department scholarships
+- STEM excellence awards
+- First-year international student awards
+- Regional diversity scholarships
+
+**SUMMARY:**
+- **Total Scholarships Available:** [X]
+- **Full Tuition Scholarships:** [Y]
+- **Partial Scholarships:** [Z]
+- **Accessibility:** [Easy to apply / Moderately competitive / Extremely selective]
+
+---
+
+## 1.4 NEED-BASED FINANCIAL AID
+
+**Does university offer need-based aid to international students?**
+- **YES:** 
+  * Application process: [Forms required, e.g., CSS Profile, university's own form]
+  * Typical awards: €[X] to €[Y]
+  * % of need met: [X]%
+  * Deadline: [Date - often earlier than admission!]
+  * URL: [Link]
+- **NO:**
+  * State clearly: "No need-based aid for international students" [URL]
+
+---
+
+## 1.5 EXTERNAL FUNDING SOURCES
+
+### A. HOST COUNTRY GOVERNMENT SCHOLARSHIPS
+- Name: [e.g., Eiffel Excellence (France), DAAD (Germany)]
+- Amount: €[X]
+- Eligibility: [Who can apply]
+- URL: [Link]
+
+### B. EU/INTERNATIONAL PROGRAMS
+- Erasmus+ grants
+- Other mobility scholarships
+- Research grants for undergrads
+
+### C. UKRAINIAN GOVERNMENT/ORGANIZATIONS
+- Ukrainian Ministry of Education study-abroad support
+- Diaspora organization scholarships
+- List any found with amounts and URLs
+
+### D. TECH COMPANY SCHOLARSHIPS
+- Google scholarships for CS students
+- Microsoft, Amazon, etc.
+- Available at this university? Evidence?
+
+---
+
+## 1.6 WORK OPPORTUNITIES & INCOME POTENTIAL
+
+### DURING STUDIES
+
+**Work Authorization:**
+- Can international students work? YES/NO
+- If YES:
+  * Hours allowed during term: [X] hours/week
+  * Hours allowed during breaks: [Y] hours/week or UNLIMITED
+  * Work permit needed: Yes/No
+
+**On-Campus Jobs:**
+- Typical wage: €[X]/hour
+- Estimated monthly income (at max hours): €[Y]
+- Jobs available: TA, RA, library, dining, IT
+
+**Off-Campus Part-Time:**
+- Allowed: YES/NO
+- Typical wage: €[X]/hour
+
+**Summer Internships:**
+- Can work full-time in summer: YES/NO
+- Tech internship typical pay: €[X]/month
+- Housing assistance common: YES/NO
+
+**ANNUAL WORK INCOME POTENTIAL:**
+- Part-time during academic year: €[X]
+- Summer internship: €[Y]
+- **TOTAL POTENTIAL:** €[Z] per year
+
+---
+
+## 1.7 POST-GRADUATION WORK VISA
+
+**Does country offer post-study work visa?**
+- YES: Duration [1 year / 2 years / 3 years]
+  * This affects career flexibility and ability to earn ROI on education
+- NO: Must leave immediately or find employer sponsorship
+
+**Impact on Financial Decision:**
+- Longer post-study work visa = More valuable for international students
+
+---
+
+## 1.8 FUNDING SCENARIOS & NET COST
+
+### SCENARIO A: BEST CASE (Maximum Aid)
+
+| Component | Gross Cost | Covered By | Net Cost |
+|-----------|------------|------------|----------|
+| Tuition | €[X] | Full scholarship | €0 |
+| Fees | €[Y] | Partial grant | €[Z] |
+| Living | €[W] | Part-time work | €[V] |
+| **TOTAL ANNUAL NET COST** | | | **€[NET]** |
+| **4-YEAR NET COST** | | | **€[TOTAL]** |
+
+### SCENARIO B: LIKELY CASE (Partial Aid + Work)
+
+| Component | Gross Cost | Covered By | Net Cost |
+|-----------|------------|------------|----------|
+| Tuition | €[X] | 50% scholarship | €[X/2] |
+| Fees | €[Y] | Out of pocket | €[Y] |
+| Living | €[W] | Work + savings | €[Z] |
+| **TOTAL ANNUAL NET COST** | | | **€[NET]** |
+| **4-YEAR NET COST** | | | **€[TOTAL]** |
+
+### SCENARIO C: MINIMUM AID (Self-Funded + Work)
+
+| Component | Gross Cost | Covered By | Net Cost |
+|-----------|------------|------------|----------|
+| Tuition + Fees | €[X] | Savings/family/loans | €[X] |
+| Living | €[Y] | Work + savings | €[Z] |
+| **TOTAL ANNUAL NET COST** | | | **€[NET]** |
+| **4-YEAR NET COST** | | | **€[TOTAL]** |
+
+---
+
+## 1.9 FINANCIAL VIABILITY SCORE (For Comparison)
+
+### SCORING CRITERIA (0-10 scale):
+
+**Cost Factors (Lower = Better):**
+- Gross annual cost: [10 = <€10k, 0 = >€40k]
+- Living cost in city: [10 = Low, 0 = Very high]
+
+**Aid Factors (Higher = Better):**
+- Ukrainian-specific support: [10 = Full tuition waiver, 0 = None]
+- TP status savings: [10 = Domestic rate available, 0 = Not applicable]
+- Merit scholarships: [10 = Many accessible, 0 = Very few/competitive]
+- Need-based aid: [10 = Available, generous, 0 = Not available]
+
+**Income Factors (Higher = Better):**
+- Work authorization: [10 = Unlimited hours, 5 = 20hrs/week, 0 = Not allowed]
+- Post-study work visa: [10 = 3 years, 5 = 1 year, 0 = None]
+
+**CALCULATE: FINANCIAL VIABILITY SCORE = [X]/10**
+
+---
+
+## 1.10 STANDARDIZED OUTPUT FOR COMPARISON
+
+**FINANCIAL PROFILE CARD**
+
+```
+UNIVERSITY: [Name]
+CURRENCY: EUR (converted if necessary)
+
+COSTS:
+- Annual Total (International): €[X]
+- 4-Year Total: €[Y]
+
+UKRAINIAN SUPPORT:
+- Specific aid available: YES/NO
+- TP status = domestic tuition: YES/NO
+- Potential savings if TP: €[X]
+
+SCHOLARSHIPS:
+- Number of merit scholarships: [X]
+- Full tuition options: [Y]
+- Accessibility: [Easy/Moderate/Competitive]
+
+WORK:
+- Hours allowed: [X]/week
+- Income potential: €[Y]/year
+- Post-study visa: [X] years
+
+NET COST SCENARIOS:
+- Best case (4 years): €[X]
+- Likely case (4 years): €[Y]
+- Worst case (4 years): €[Z]
+
+FINANCIAL VIABILITY SCORE: [X]/10
+RANKING: [Will be compared against all universities]
+```
+
+---
+
+## 1.11 CRITICAL QUESTIONS CHECKLIST
+
+Before moving to next section, ensure answered:
+- [ ] Total 4-year cost calculated and converted to EUR
+- [ ] Ukrainian-specific support exhaustively searched
+- [ ] TP status tuition impact confirmed (if EU)
+- [ ] All merit scholarships documented with deadlines
+- [ ] Work authorization and income potential estimated
+- [ ] Three cost scenarios calculated
+- [ ] All claims have URL citations
+- [ ] Financial Viability Score calculated
+
+---
+
+## ⚠️ FINAL REMINDER ⚠️
+
+**VERIFY YOUR WORK:**
+- Every URL you included came from actual search results (not generated by you)
+- Every cost, scholarship, and financial detail came from search results
+- Any information you couldn't find is clearly marked as "Information not available"
+- You did NOT fabricate or guess any information
+
+**If you generated fake links or data, your report is INVALID. Only real search results are acceptable.**

@@ -1,0 +1,366 @@
+## ⚠️ CRITICAL RESEARCH INSTRUCTIONS ⚠️
+
+**YOU MUST USE YOUR SEARCH TOOLS TO FIND REAL INFORMATION.**
+
+- DO NOT generate, fabricate, or invent ANY URLs, links, citations, or data
+- DO NOT make up admission statistics, requirements, or deadlines
+- If you cannot find specific information through search, explicitly state: "Information not available through search"
+- ONLY include URLs and data that were provided to you through actual search tool results
+- When you lack information on any topic, clearly state that it could not be found rather than guessing
+
+**Your search tools are your ONLY source of truth. Use them extensively.**
+
+---
+
+TARGET: [University Name]
+Extra: [Bachelor full name]
+
+## SECTION 2: ADMISSION PROFILE & REQUIREMENTS
+## ★★★ PRIORITY #2 FOR COMPARISON ★★★
+
+### OBJECTIVE:
+Gather comprehensive admission data to assess realistic chances and compare competitiveness across universities.
+
+---
+
+## 2.1 ADMISSION STATISTICS (Comparable Data)
+
+### ACCEPTANCE RATES
+- **Overall University Acceptance Rate:** [X]% [URL]
+- **International Student Acceptance Rate:** [X]% [URL]
+- **Program-Specific Acceptance Rate (CS/AI):** [X]% [URL or estimate]
+- **Trend:** Becoming more/less selective? (check 3-year data if available)
+
+### ENROLLMENT NUMBERS
+- **Total students in program:** [X]
+- **Annual first-year intake:** [X] students
+- **International students in program:** [X] ([Y]%)
+- **Ukrainian students (if findable):** [X]
+
+### SELECTIVITY METRICS
+- **Applications received annually:** [X]
+- **Yield rate:** [X]% (percentage who enroll after acceptance)
+- **Waitlist:** Used? Historical admit rate from waitlist: [X]%
+
+**SELECTIVITY SUMMARY:**
+"This program admits approximately [X] students from [Y] applications ([Z]% acceptance rate). International students face [similar/higher/lower] selectivity."
+
+---
+
+## 2.2 ACADEMIC PROFILE OF ADMITTED STUDENTS
+
+### A. HIGH SCHOOL REQUIREMENTS
+
+**GPA/Grades:**
+- **Minimum GPA/Grade Average:** [X] [URL]
+- **Competitive Range (Middle 50% or Average):** [X-Y] [URL]
+- **Required Subjects:** Math (through Calculus), Physics, Chemistry, Computer Science, [Others]
+
+**Ukrainian Certificate of Complete General Secondary Education:**
+- **Recognized:** YES/NO
+- **Minimum Score:** [X]/200 or [Y]/12
+- **Competitive Score:** [X-Y]
+- **Credential Evaluation Required:** YES (service: [WES/ECE]) / NO
+- **URL:** [Link to international qualifications page]
+
+**Other Qualifications Accepted:**
+- **IB Diploma:** Minimum [X] points, Competitive [Y-Z], Required HL subjects [Math, Physics], URL
+- **A-Levels:** Minimum grades [AAB], Required subjects [Math, Further Math, Physics], URL
+- **Other Systems:** List any (French Bac, German Abitur, etc.) with requirements
+
+---
+
+### B. STANDARDIZED TESTING
+
+**SAT/ACT:**
+- **Required / Optional / Not Considered:** [Policy]
+- If Required/Optional:
+  * **SAT Middle 50% Range:** Total [X-Y], Math [A-B], EBRW [C-D] [URL]
+  * **ACT Middle 50% Range:** Composite [X-Y] [URL]
+  * **Minimum Scores:** [If stated]
+  * **Superscore Policy:** YES/NO
+- **Ukrainian ZNO/NMT:** Considered? YES/NO
+
+**AP/IB Exam Scores:**
+- Considered for admission: YES/NO
+- Credit granted: YES/NO (if yes, which exams)
+
+---
+
+### C. ENGLISH PROFICIENCY
+
+**TOEFL iBT:**
+- **Minimum Total:** [X] (Reading [Y], Listening [Z], Speaking [W], Writing [V]) [URL]
+- **Competitive Score:** [X+] (most admitted students score)
+- **Institution Code:** [Code for score reporting]
+
+**IELTS Academic:**
+- **Minimum Overall:** [X.X] (Section minimums: [Y.Y]) [URL]
+- **Competitive Score:** [X.X+]
+
+**Other Tests Accepted:**
+- Duolingo: Minimum [X]
+- Cambridge: [Level]
+- PTE Academic: Minimum [X]
+
+**Exemptions:**
+- Education in English for [X] years: YES/NO
+- Ukrainian education qualifies: NO (confirm)
+- URL to exemption policy
+
+**Testing Availability:**
+- Test centers in Ukraine: [Available/Limited/Closed]
+- At-home testing accepted: YES/NO
+- Nearest testing locations: [Countries]
+
+---
+
+## 2.3 APPLICATION REQUIREMENTS (Complexity Assessment)
+
+### CHECKLIST OF REQUIRED MATERIALS
+
+**Count each required item:**
+- [ ] Application form (Platform: Common App / University portal / UCAS / Other)
+- [ ] Application fee: €[X] (Fee waiver: YES/NO for Ukrainians)
+- [ ] Official transcripts (Translation required: YES/NO, Apostille: YES/NO)
+- [ ] Standardized test scores (SAT/ACT if applicable, TOEFL/IELTS)
+- [ ] Personal statement / Motivation letter (Word limit: [X])
+- [ ] Supplemental essays (Number: [X], Total words: [Y])
+- [ ] Letters of recommendation (Number: [X], From whom: [Teachers/Counselor])
+- [ ] Resume/CV (Required/Optional)
+- [ ] Portfolio (Required/Optional/Recommended for CS)
+- [ ] Interview (Required/By invitation/Not offered)
+- [ ] Financial documentation (Required at application stage: YES/NO)
+- [ ] Other materials: [List]
+
+**APPLICATION COMPLEXITY SCORE:**
+- Total required items: [X]
+- Total essay word count: [Y]
+- Estimated time investment: [X] hours
+- **Complexity Rating:** Low / Medium / High
+
+---
+
+## 2.4 ESSAY/PERSONAL STATEMENT REQUIREMENTS
+
+### MAIN PERSONAL STATEMENT
+- **Required:** YES/NO
+- **Prompt:** [Copy exact prompt or "General - tell us about yourself"]
+- **Word/Character Limit:** [X] words or [Y] characters
+- **Format:** PDF upload / Text box
+- **URL:** [Link to essay guidelines]
+
+### SUPPLEMENTAL ESSAYS
+**Essay #1:**
+- Prompt: [e.g., "Why this program?" "Why this university?"]
+- Limit: [X] words
+- Required for: All applicants / CS program specifically
+
+**Essay #2:** [If applicable]
+- Prompt: [e.g., Technical topic, diversity statement]
+- Limit: [X] words
+
+**TOTAL ESSAY BURDEN:** [X] words across [Y] essays
+
+### WHAT UNIVERSITY VALUES IN ESSAYS
+(Based on official guidance + Reddit insights)
+- Academic passion and intellectual curiosity
+- Specific research interests
+- Overcoming challenges (relevant for Ukrainian students!)
+- Fit with university's values
+- [Other themes from official materials]
+
+---
+
+## 2.5 CRITICAL DEADLINES (All Dates)
+
+### APPLICATION DEADLINES
+
+| Round | Deadline | Notification | Binding? | URL |
+|-------|----------|--------------|----------|-----|
+| Early Decision (if offered) | [MM/DD/YYYY] | [MM/DD] | YES | [URL] |
+| Early Action (if offered) | [MM/DD/YYYY] | [MM/DD] | NO | [URL] |
+| Regular Decision | [MM/DD/YYYY] | [MM/DD] | NO | [URL] |
+| Rolling (if applicable) | [Date] | Rolling | NO | [URL] |
+
+### SUPPORTING MATERIALS DEADLINES
+- Transcripts due: [Date]
+- Test scores due: [Date]
+- Recommendations due: [Date]
+
+### FINANCIAL AID DEADLINES
+- Need-based aid application: [Date] (Often earlier than admission!)
+- Merit scholarship applications: [List each with date from Section 1]
+
+### POST-ACCEPTANCE DEADLINES
+- Enrollment deposit due: [Date] (Typically May 1 for US, varies elsewhere)
+- Housing application: [Date]
+
+**DEADLINE SUMMARY:**
+- **First deadline (earliest action required):** [Date]
+- **Main application deadline:** [Date]
+- **All materials must be submitted by:** [Date]
+
+---
+
+## 2.6 UKRAINIAN-SPECIFIC ADMISSION CONSIDERATIONS
+
+### DOCUMENT CHALLENGES
+- **Ukrainian "Atestat" Recognition:** Direct acceptance or evaluation needed?
+- **Translation Requirements:** Certified translator, specific format, cost €[X]
+- **Apostille Requirements:** Obtainable in Ukraine? Process during war?
+- **School Disruptions:** How to explain gaps, obtain documents from damaged schools
+- **Alternative Documentation:** Accepted if originals unavailable?
+
+### APPLICATION FEE
+- **Waiver for Ukrainians:** Automatic / Available upon request / Not available
+- **How to request:** [Process]
+
+### SPECIAL CONSIDERATIONS
+- **Simplified procedures for Ukrainian refugees:** YES/NO [URL]
+- **Deadline extensions available:** YES/NO (how to request)
+- **Partnerships with Ukrainian universities:** YES/NO
+
+### CONTACT FOR UKRAINIAN APPLICANTS
+- **Designated advisor:** [Name, email] OR General international admissions: [email]
+- **Subject line suggestion:** "Ukrainian Applicant - Question about [X]"
+
+---
+
+## 2.7 SELECTION CRITERIA & WHAT UNIVERSITY SEEKS
+
+### OFFICIAL CRITERIA (from admissions website)
+Quote and cite the university's stated evaluation factors:
+- Academic achievement: [Weight or priority]
+- Test scores: [Weight]
+- Essays: [Weight]
+- Recommendations: [Weight]
+- Extracurriculars: [Weight]
+- Other factors: [List]
+- **Holistic Review:** YES/NO
+- [URL to admissions criteria]
+
+### DEMONSTRATED INTEREST
+- **Tracked:** YES/NO [URL or evidence]
+- If YES: Info sessions, campus visits, email inquiries count toward application
+
+### PROFILE OF SUCCESSFUL CS/AI APPLICANTS
+(Based on admitted student profiles, if available)
+- Common backgrounds: [Research experience, Olympiads, projects, etc.]
+- Valued extracurriculars: [Competitions, hackathons, leadership]
+- Geographic diversity sought: [Regions underrepresented]
+
+---
+
+## 2.8 COMPETITIVENESS ASSESSMENT
+
+### STUDENT PROFILE COMPARISON
+
+**Create Benchmarks:**
+
+| Profile Element | "Safety" Profile | "Target" Profile | "Reach" Profile |
+|----------------|------------------|------------------|-----------------|
+| **GPA/Grades** | [X+] | [Y] | [Z-] |
+| **SAT Total** | [1500+] | [1400-1499] | [<1400] |
+| **TOEFL** | [110+] | [100-109] | [90-99] |
+| **ECs** | [Strong research + competitions] | [Some projects/activities] | [Basic ECs] |
+| **Essays** | [Exceptional] | [Strong] | [Adequate] |
+
+**Where does typical applicant fit?**
+- For student with [profile], this university is likely a: **REACH / TARGET / SAFETY**
+
+---
+
+## 2.9 ADMISSION DIFFICULTY SCORE (For Comparison)
+
+### SCORING CRITERIA (0-10 scale):
+
+**Selectivity (Higher score = Harder to get in):**
+- Acceptance rate: [10 = <10%, 5 = 30%, 0 = >70%]
+- Program-specific selectivity: [Adjust if more/less competitive than university average]
+
+**Academic Requirements:**
+- Test score requirements: [10 = Very high, 5 = Moderate, 0 = Not required]
+- GPA requirements: [10 = Top 5%, 5 = Top 20%, 0 = Flexible]
+
+**Application Complexity:**
+- Essay burden: [10 = 5+ essays, 5 = 2-3 essays, 0 = 1 or none]
+- Document requirements: [10 = Many complex, 5 = Standard, 0 = Minimal]
+
+**CALCULATE: ADMISSION DIFFICULTY SCORE = [X]/10**
+
+**INTERPRETATION:**
+- 8-10: Highly selective, reach for most applicants
+- 5-7: Competitive, target for strong applicants
+- 0-4: Accessible, safety for strong applicants
+
+---
+
+## 2.10 STANDARDIZED OUTPUT FOR COMPARISON
+
+**ADMISSION PROFILE CARD**
+
+```
+UNIVERSITY: [Name]
+PROGRAM: [Name]
+
+SELECTIVITY:
+- Acceptance Rate: [X]% (overall) / [Y]% (international)
+- Annual Intake: [X] students
+- Competitiveness: [Highly Selective / Competitive / Accessible]
+
+REQUIREMENTS:
+- GPA: Minimum [X], Competitive [Y-Z]
+- SAT: [Policy - Required/Optional], Competitive [X-Y]
+- TOEFL: Minimum [X], Competitive [Y]
+- Ukrainian Certificate: [Minimum score]
+
+APPLICATION:
+- Platform: [Common App / University portal / Other]
+- Essay Count: [X] (Total [Y] words)
+- Fee: €[Z] (Waiver: YES/NO for Ukrainians)
+- Complexity: [Low/Medium/High]
+
+DEADLINES:
+- Main Deadline: [MM/DD/YYYY]
+- Early Option: [Yes/No - Date]
+
+UKRAINIAN CONSIDERATIONS:
+- Document challenges: [Level - Easy/Moderate/Difficult]
+- Special support: [YES/NO - description]
+- Fee waiver: [YES/NO]
+
+ADMISSION DIFFICULTY SCORE: [X]/10
+
+REALISTIC CHANCES:
+For student with [typical profile]:
+- Classification: [Reach / Target / Safety]
+- Estimated probability: [X]%
+```
+
+---
+
+## 2.11 CRITICAL QUESTIONS CHECKLIST
+
+Before moving to next section:
+- [ ] Acceptance rates documented (overall, international, program-specific)
+- [ ] Admitted student profile benchmarks established
+- [ ] Ukrainian certificate recognition confirmed
+- [ ] All essay requirements listed with word counts
+- [ ] All deadlines documented (application, aid, scholarships)
+- [ ] Ukrainian-specific challenges identified
+- [ ] Application complexity assessed
+- [ ] Admission Difficulty Score calculated
+- [ ] All claims have URL citations
+
+---
+
+## ⚠️ FINAL REMINDER ⚠️
+
+**VERIFY YOUR WORK:**
+- Every URL you included came from actual search results (not generated by you)
+- Every admission statistic, requirement, and deadline came from search results
+- Any information you couldn't find is clearly marked as "Information not available"
+- You did NOT fabricate or guess any information
+
+**If you generated fake links or data, your report is INVALID. Only real search results are acceptable.**

@@ -1,0 +1,387 @@
+## ⚠️ CRITICAL RESEARCH INSTRUCTIONS ⚠️
+
+**YOU MUST USE YOUR SEARCH TOOLS TO FIND REAL INFORMATION.**
+
+- DO NOT generate, fabricate, or invent ANY URLs, links, citations, or data
+- DO NOT make up visa requirements, immigration policies, or procedures
+- If you cannot find specific information through search, explicitly state: "Information not available through search"
+- ONLY include URLs and data that were provided to you through actual search tool results
+- When you lack information on any topic, clearly state that it could not be found rather than guessing
+
+**Your search tools are your ONLY source of truth. Use them extensively.**
+
+---
+
+TARGET: [University Name]
+
+## SECTION 3: IMMIGRATION & RESIDENCY ANALYSIS
+## ★★★ PRIORITY #3 FOR COMPARISON ★★★
+
+### OBJECTIVE:
+Assess immigration friendliness, visa complexity, and long-term residency prospects for Ukrainian students.
+
+---
+
+## 3.1 HOST COUNTRY IDENTIFICATION
+
+**Country:** [Name]
+**University Location:** [City]
+**Immigration Authority:** [Ministry/Department name] [URL]
+
+**General Climate:**
+- Toward international students: Welcoming / Neutral / Restrictive
+- Recent policy changes (2020-2025): [Any major shifts]
+- International student population: [X]% of all students in country
+
+---
+
+## 3.2 EU TEMPORARY PROTECTION DIRECTIVE (If EU Country)
+
+### ★★★ CRITICAL - HUGE FINANCIAL IMPACT ★★★
+
+**A. TEMPORARY PROTECTION STATUS AVAILABILITY**
+
+**Is this EU country implementing TP for Ukrainians?**
+- **YES / NO** [URL to official government page]
+- Currently valid until: [Date] (likely extended)
+- Eligibility: Ukrainian citizens who resided in Ukraine before Feb 24, 2022
+
+---
+
+**B. FINANCIAL IMPACT - TUITION FEES**
+
+**CRITICAL QUESTION: Do students under TP pay DOMESTIC tuition rates?**
+
+**If YES:**
+- **Domestic Rate:** €[X] per year [URL]
+- **International Rate:** €[Y] per year [URL]  
+- **ANNUAL SAVINGS:** €[Y - X]
+- **4-YEAR TOTAL SAVINGS:** €[(Y-X) × 4]
+- **How to Access:** Apply for TP status before/after arrival, register with authorities
+- **University Policy URL:** [Direct link to university's TP fee policy]
+
+**If NO or UNCLEAR:**
+- State: "TP status tuition benefit not confirmed" [URL]
+
+**Verification Strategy:**
+- Check: University international office "Ukraine" pages
+- Check: National education ministry policy
+- Contact: University directly to confirm
+
+---
+
+**C. OTHER TP STATUS RIGHTS**
+
+**Right to Work:**
+- Work without additional permit: YES/NO
+- Hour restrictions: [X hours/week] or UNLIMITED
+- Comparison to student visa: [Better / Same / N/A]
+
+**Healthcare:**
+- Access to public healthcare: YES/NO
+- Coverage level: [Same as citizens / Basic]
+- Cost: FREE / Subsidized / Must pay
+
+**Social Benefits:**
+- Student grants (national programs): Eligible YES/NO
+- Housing assistance: YES/NO
+- Transportation subsidies: YES/NO
+
+**Duration & Renewal:**
+- Valid for: [X months/years]
+- Renewal process: [Automatic / Application required every X months]
+
+---
+
+**D. APPLICATION PROCESS (Brief Overview)**
+
+**Steps:**
+1. Arrive in country (visa-free entry for Ukrainians in Schengen)
+2. Apply for TP at: [Immigration office / Online / City hall]
+3. Documents: Passport, proof of Ukraine residence before Feb 24, 2022
+4. Processing: [X] days/weeks
+5. Receive: TP card/document
+
+**Cost:** FREE or €[X]
+**URL:** [Government TP application page]
+
+---
+
+**E. TP vs STUDENT VISA COMPARISON**
+
+| Factor | Temporary Protection | Student Visa |
+|--------|---------------------|--------------|
+| **Tuition** | €[X domestic] | €[Y international] |
+| **Work Rights** | [Hours or unlimited] | [Hours] |
+| **Processing Time** | [X weeks] | [Y weeks] |
+| **Cost** | €[X] | €[Y] |
+| **Flexibility** | [Can change unis?] | [Tied to one institution] |
+
+**RECOMMENDATION:**
+- If TP = domestic tuition: **STRONGLY PURSUE TP STATUS**
+- If TP unclear: **RESEARCH FURTHER - CONTACT UNIVERSITY**
+- If TP not applicable (non-EU): **SKIP TO STUDENT VISA BELOW**
+
+---
+
+## 3.3 STUDENT VISA/RESIDENCE PERMIT
+
+### A. VISA TYPE & REQUIREMENTS
+
+**Official Visa Name:** [e.g., "Type D Student Visa," "Student Residence Permit"]
+**Duration Initially Granted:** [1 year / Program duration]
+**URL:** [Embassy/immigration page]
+
+---
+
+### B. KEY REQUIREMENTS SUMMARY
+
+**1. Admission Letter**
+- Unconditional offer from university required
+
+**2. Financial Proof** ★ CRITICAL COMPARISON POINT
+- **Minimum Amount Required:** €[X] per year [URL]
+  * Tuition: €[Y]
+  * Living: €[Z]
+  * **TOTAL:** €[X]
+- **Acceptable Proof:** Bank statements, scholarship letters, sponsor affidavit, blocked account
+- **Whose Account:** Student's / Parent's / Either
+- **Currency:** EUR/USD or UAH acceptable?
+- **How Recent:** Within [X] days/months
+
+**For Comparison:** This is the liquid cash needed BEFORE arrival.
+
+**3. Health Insurance**
+- **Required:** YES/NO
+- **Minimum Coverage:** €[X] per year
+- **Approved Providers:** [List or university insurance acceptable]
+- **Cost:** €[Y] annually
+
+**4. Other Documents**
+- Accommodation proof (required: YES/NO)
+- Criminal record check (required: YES/NO)
+- Medical exam (required: YES/NO)
+
+---
+
+### C. APPLICATION PROCESS COMPLEXITY
+
+**Where to Apply:**
+- In Ukraine: [Embassy location - Open/Limited/Closed]
+- In neighboring countries: [Poland/Romania/Moldova options]
+- Online application: Available YES/NO
+
+**Timeline:**
+- **Appointment Wait:** [X] weeks
+- **Processing Time:** [Y] weeks (range: [Z-W])
+- **TOTAL TIME NEEDED:** [X+Y] weeks = [~N] months
+
+**Application Fee:** €[X] (NON-REFUNDABLE)
+**Fee Waiver for Ukrainians:** YES/NO
+
+**Interview:** Required YES/NO
+- If YES: Questions asked about intentions, financing, return plans
+
+---
+
+### D. APPROVAL RATE & RISKS
+
+**Approval Rate (estimate):** [High / Medium / Low] based on [source/evidence]
+**Common Denial Reasons:**
+- Insufficient financial proof
+- Incomplete documentation
+- Concerns about return intent
+
+**Specific Challenges for Ukrainians:**
+- Ukrainian bank statements in UAH: Accepted YES/NO
+- Proof of funds if family displaced: [How to handle]
+- Apostille availability: [Possible in Ukraine YES/NO]
+
+---
+
+### E. UPON ARRIVAL REQUIREMENTS
+
+**Mandatory Steps:**
+1. **Register with local authorities within:** [X] days
+   - Where: [Immigration office / City hall]
+   - Fee: €[X] or FREE
+   - **FAILURE TO REGISTER:** Fines €[X], visa issues
+
+2. **Convert to Residence Permit** (if applicable)
+   - Some countries: Short-term visa on arrival → convert to permit
+   - Timeline: Within [X] days
+   - Fee: €[Y]
+   - Processing: [Z] weeks
+
+3. **Open Bank Account** (for practical reasons)
+   - Required documents: Passport, permit, admission letter
+
+---
+
+## 3.4 WORK AUTHORIZATION
+
+### DURING STUDIES
+
+**Work Permitted:** YES / NO / LIMITED
+
+**If YES or LIMITED:**
+- **Hours During Academic Term:** [X] hours/week
+- **Hours During Breaks/Summer:** [Y] hours/week or UNLIMITED
+- **Additional Permit Needed:** YES (process: [X], cost: €[Y]) / NO (automatic)
+
+**On-Campus vs Off-Campus:**
+- On-campus: [Always allowed / Same restrictions]
+- Off-campus: [Allowed / Not allowed / Permit needed]
+
+**Internships/Co-ops:**
+- Considered as regular work: YES/NO
+- Separate authorization: YES/NO
+
+**Tax on Earnings:**
+- Income tax rate: [X]%
+- Tax treaty with Ukraine: YES/NO (avoid double taxation)
+
+---
+
+## 3.5 POST-GRADUATION WORK OPPORTUNITIES
+
+### ★ CRITICAL FOR CAREER FLEXIBILITY ★
+
+**Post-Study Work Visa:**
+- **Available:** YES / NO
+- **If YES:**
+  * **Duration:** [1 year / 2 years / 3 years]
+  * **Eligibility:** Must complete degree, apply within [X] days of graduation
+  * **Work Restrictions:** Any field / Degree-related only
+  * **Salary Requirements:** Minimum €[X] / None
+  * **Application Fee:** €[Y]
+  * **URL:** [Official post-study work visa page]
+
+**If NO:**
+- Must find employer sponsorship immediately or leave country
+- Grace period to search: [X] days
+
+**For Comparison:** Longer post-study visa = More valuable for international students!
+
+---
+
+### PATH TO PERMANENT RESIDENCY
+
+**Timeline:**
+- After [X] years of legal residency, eligible to apply for Permanent Residence
+- **Do study years count?** Full / Partial (50%?) / Not at all
+- **Requirements for PR:** Continuous residence, language proficiency, income, integration
+
+**Path to Citizenship:**
+- After [X] years of PR or [Y] years total residency
+- Dual citizenship with Ukraine: Allowed YES/NO
+
+---
+
+### SPECIAL PROGRAMS FOR HIGH-SKILLED WORKERS
+
+**EU Blue Card** (if EU country):
+- For graduates with job offer, salary above €[X]
+- CS/AI jobs qualify: YES (high-demand field)
+- Benefits: Faster PR track, EU mobility
+- URL: [Link]
+
+**Other Fast-Track Programs:**
+- [Country-specific programs for tech workers, startups, etc.]
+
+---
+
+## 3.6 IMMIGRATION FRIENDLINESS SCORE (For Comparison)
+
+### SCORING CRITERIA (0-10 scale):
+
+**Visa Process (Higher = Easier):**
+- Application complexity: [10 = Simple, 0 = Very complex]
+- Processing time: [10 = <4 weeks, 5 = 8-12 weeks, 0 = >16 weeks]
+- Approval rate: [10 = Very high, 0 = Many denials]
+- Ukrainian-specific challenges: [10 = None, 0 = Many obstacles]
+
+**Costs:**
+- Financial proof required: [10 = Low amount, 0 = Very high]
+- Visa fees: [10 = Low/Free, 0 = Expensive]
+
+**Rights During Studies:**
+- Work authorization: [10 = Unlimited, 5 = 20 hrs/week, 0 = Not allowed]
+- TP status available with benefits: [+2 bonus points if YES]
+
+**Post-Graduation:**
+- Work visa duration: [10 = 3 years, 5 = 1 year, 0 = None]
+- PR pathway: [10 = Clear and fast, 0 = Very difficult]
+
+**CALCULATE: IMMIGRATION FRIENDLINESS SCORE = [X]/10**
+
+---
+
+## 3.7 STANDARDIZED OUTPUT FOR COMPARISON
+
+**IMMIGRATION PROFILE CARD**
+
+```
+UNIVERSITY: [Name]
+COUNTRY: [Name]
+
+EU TEMPORARY PROTECTION:
+- Available: YES/NO
+- Tuition Impact: Domestic €[X] vs International €[Y]
+- Savings if TP: €[Z] over 4 years
+- Other Benefits: [Work rights, healthcare]
+
+STUDENT VISA:
+- Type: [Name]
+- Processing Time: [X] weeks
+- Approval Difficulty: [Easy/Moderate/Hard]
+- Financial Proof Required: €[X]
+- Application Fee: €[Y] (Waiver: YES/NO)
+
+WORK RIGHTS:
+- During Studies: [X] hours/week
+- Permit Needed: YES/NO
+- Off-campus Allowed: YES/NO
+
+POST-GRADUATION:
+- Work Visa: [Available - X years] / [Not available]
+- PR Timeline: [X] years
+- Path to Citizenship: [Y] years
+
+UKRAINIAN-SPECIFIC:
+- TP Status: [Available with major benefits / Available / Not applicable]
+- Document Challenges: [Easy/Moderate/Difficult]
+- Special Support: [Description or NONE]
+
+IMMIGRATION FRIENDLINESS SCORE: [X]/10
+
+RANKING: [Will compare across all universities]
+```
+
+---
+
+## 3.8 CRITICAL QUESTIONS CHECKLIST
+
+Before moving to next section:
+- [ ] TP status availability confirmed (if EU)
+- [ ] TP tuition impact researched exhaustively (huge financial factor!)
+- [ ] Student visa requirements documented (financial proof amount!)
+- [ ] Processing time and complexity assessed
+- [ ] Work authorization rules clear (hours, permit)
+- [ ] Post-study work visa researched (duration)
+- [ ] PR pathway timeline documented
+- [ ] Ukrainian-specific challenges identified
+- [ ] Immigration Friendliness Score calculated
+- [ ] All claims have URL citations
+
+---
+
+## ⚠️ FINAL REMINDER ⚠️
+
+**VERIFY YOUR WORK:**
+- Every URL you included came from actual search results (not generated by you)
+- Every visa requirement, policy, and immigration detail came from search results
+- Any information you couldn't find is clearly marked as "Information not available"
+- You did NOT fabricate or guess any information
+
+**If you generated fake links or data, your report is INVALID. Only real search results are acceptable.**

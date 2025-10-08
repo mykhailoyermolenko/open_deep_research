@@ -1,0 +1,386 @@
+## ⚠️ CRITICAL RESEARCH INSTRUCTIONS ⚠️
+
+**YOU MUST USE YOUR SEARCH TOOLS TO FIND REAL INFORMATION.**
+
+- DO NOT generate, fabricate, or invent ANY URLs, links, citations, or data
+- DO NOT make up city statistics, cost of living data, or location details
+- If you cannot find specific information through search, explicitly state: "Information not available through search"
+- ONLY include URLs and data that were provided to you through actual search tool results
+- When you lack information on any topic, clearly state that it could not be found rather than guessing
+
+**Your search tools are your ONLY source of truth. Use them extensively.**
+
+---
+
+TARGET: [University Name]
+
+## SECTION 8: LOCATION & ECOSYSTEM ANALYSIS
+
+### OBJECTIVE:
+Assess university location for tech opportunities, livability, and overall student experience.
+
+---
+
+## 8.1 CITY & GEOGRAPHIC CONTEXT
+
+**City:** [Name]
+**Country:** [Name]
+**Region:** [e.g., Northern Europe, Western Europe, North America, etc.]
+**Population:** [X]
+**Type:** [Major metropolis / Mid-size city / College town / Rural]
+
+**Geographic Characteristics:**
+- Proximity to other major cities: [X km to Y city]
+- Airport access: [International airport - city name]
+- Time zone: [UTC +/- X]
+
+---
+
+## 8.2 TECH & AI ECOSYSTEM
+
+### A. TECH HUB STATUS
+
+**Is this a recognized tech/AI hub?**
+- **Status:** [Major tech hub / Emerging / Limited tech presence]
+- **Evidence:** [Rankings, reports citing city as tech center]
+
+**Major Tech Companies Present:**
+- **FAANG Offices:**
+  - [ ] Google - [Office size, roles]
+  - [ ] Meta/Facebook - [Office size]
+  - [ ] Amazon - [Office size]
+  - [ ] Apple - [Office size]
+  - [ ] Microsoft - [Office size]
+  - [ ] Netflix - [Office size]
+
+- **AI-Specific Companies:**
+  - [ ] OpenAI, Anthropic, DeepMind - [Offices YES/NO]
+  - [ ] NVIDIA, Intel, AMD - [Presence]
+  - [ ] [Other AI companies in city]
+
+- **National Tech Champions:**
+  - [ ] [Country-specific major tech companies]
+  - [ ] [Local unicorns and scale-ups]
+
+**Total Tech Jobs in City:**
+- Estimated: [X] tech jobs (if data available)
+- Growth rate: [Increasing / Stable / Declining]
+
+---
+
+### B. AI RESEARCH ECOSYSTEM
+
+**AI Research Institutions (Beyond Target University):**
+- Other universities with AI programs: [List]
+- Corporate research labs: [Google AI, FAIR, etc.]
+- Government AI research: [National labs, institutes]
+
+**AI Conferences & Events:**
+- Does city host major AI conferences? [NeurIPS, ICML, local conferences]
+- Frequency of meetups: [Active AI/ML meetups YES/NO]
+
+**AI Ecosystem Strength:** [World-class / Strong / Moderate / Limited]
+
+---
+
+### C. STARTUP ECOSYSTEM
+
+**Startup Activity:**
+- Number of tech startups: [X] (estimate from Crunchbase, local reports)
+- Notable AI/ML startups: [Names of significant ones]
+- Unicorns from this city: [List]
+
+**Venture Capital Presence:**
+- Major VC firms: [List active VCs]
+- Annual VC funding: $[X] per year (if data available)
+- Startup support: [Incubators, accelerators - names]
+
+**Entrepreneurship Culture:** [Very active / Moderate / Limited]
+
+---
+
+### D. INTERNSHIP & JOB OPPORTUNITIES FOR STUDENTS
+
+**Proximity Advantage:**
+- Can students easily intern at local companies? [YES - abundant / Some / Limited]
+- Part-time work during semester: [Many opportunities / Some / Few]
+- Competition for internships: [Lower due to multiple companies / High]
+
+**University-Industry Partnerships:**
+- Does university have formal partnerships? [List significant ones]
+- Career fairs attract local companies: [How many attend - from Section 6]
+
+**International Student Job Market:**
+- Are international students hired locally? [Common / Occasional / Rare]
+- Visa sponsorship: [Many companies sponsor / Some / Difficult]
+
+---
+
+## 8.3 COST OF LIVING
+
+### COMPREHENSIVE COST ANALYSIS
+
+**Housing:**
+- **Student Dorms:** €[X]-€[Y] per month (from Section 1)
+- **Shared Apartment (off-campus):** €[X]-€[Y] per month
+- **Studio Apartment:** €[X]-€[Y] per month
+- **Availability:** [Easy to find / Competitive / Very difficult]
+
+**Food:**
+- **Groceries per month:** €[X]
+- **University Meal Plan:** €[Y] per month (if available)
+- **Restaurant meal:** €[Z] average
+- **Coffee/Casual:** €[W]
+
+**Transportation:**
+- **Monthly public transit pass:** €[X]
+- **Student discount:** YES - €[Y] / NO
+- **Bike friendly:** YES/NO
+- **Walkable campus:** YES/NO
+- **Car necessary:** YES/NO
+
+**Other Expenses:**
+- **Mobile phone:** €[X] per month
+- **Internet:** €[Y] per month (if off-campus)
+- **Health insurance:** €[Z] per month (from Section 1)
+- **Entertainment:** €[W] per month
+
+**TOTAL MONTHLY COST (Estimate):**
+- **Budget/Minimal:** €[X] per month
+- **Comfortable:** €[Y] per month
+- **High-end:** €[Z] per month
+
+**Sources:**
+- Numbeo.com: [URL]
+- University cost estimates: [URL]
+- Expatistan: [URL]
+- Student forums: [Real experiences]
+
+---
+
+### COST OF LIVING INDEX
+
+**Comparative Ranking:**
+- Numbeo Cost of Living Index: [X] (New York = 100 baseline)
+- Compared to other cities:
+  * Cheaper than: [Cities]
+  * Similar to: [Cities]
+  * More expensive than: [Cities]
+
+**Affordability for Students:** [Very affordable / Moderate / Expensive / Very expensive]
+
+---
+
+## 8.4 QUALITY OF LIFE
+
+### A. SAFETY
+
+**Crime Statistics:**
+- Overall safety rating: [Very safe / Safe / Moderate / Unsafe]
+- Campus area safety: [Safe day & night / Safe during day / Concerns]
+- Sources: Numbeo Crime Index, local police data, student reports
+
+**Student Perceptions:**
+- Quote Reddit: "The city/campus is safe because..."
+- Any recurring safety concerns mentioned
+
+---
+
+### B. CLIMATE & WEATHER
+
+**Climate Type:** [Continental / Oceanic / Mediterranean / etc.]
+**Temperature:**
+- Summer: [X-Y]°C average
+- Winter: [X-Y]°C average
+**Precipitation:** [X] mm/year or [Y] rainy days
+**Seasonal Challenges:**
+- Dark winters (Nordic countries): [Hours of daylight in December]
+- Extreme heat/cold: [Any extremes]
+
+**Weather Impact on Student Life:**
+- Requires adjustment for Ukrainians: [Yes - colder/warmer / Similar / No issue]
+
+---
+
+### C. CULTURE & LIFESTYLE
+
+**Language:**
+- Primary language: [Language]
+- English proficiency level: [Very high / High / Moderate / Low]
+- Can survive without local language: [Easily / With some challenges / Difficult]
+
+**Cultural Atmosphere:**
+- International city: [Very diverse / Moderately diverse / Homogeneous]
+- Student-friendly: [Large student population, student discounts, activities]
+- Social scene: [Vibrant nightlife / Cultural events / Quiet]
+
+**Things to Do:**
+- Museums, theaters, concerts: [Rich cultural scene / Moderate / Limited]
+- Outdoor activities: [Parks, hiking, sports]
+- Sports culture: [Major sports teams, facilities]
+
+**Lifestyle Fit:**
+- For a tech student from Ukraine: [Excellent fit / Good / Adjustment needed]
+
+---
+
+### D. HEALTHCARE
+
+**Healthcare System:**
+- Quality: [Excellent / Good / Adequate / Poor]
+- Access: [Easy / Moderate / Difficult]
+- For international students: [Same access as citizens / Limited / Insurance-dependent]
+
+**University Health Services:**
+- On-campus clinic: YES/NO
+- Mental health services: [Available - quality]
+
+---
+
+### E. DISCRIMINATION & INTERNATIONAL STUDENT EXPERIENCE
+
+**Search Forums for:**
+- "Discrimination [city]" "international student [city]"
+- "Racism [university]"
+
+**General Attitude:**
+- Toward international students: [Very welcoming / Welcoming / Neutral / Some issues]
+- Toward Eastern Europeans/Ukrainians: [Sympathetic / Neutral / Any issues]
+
+**Quote Experiences:**
+- International student testimonials: "[City] is welcoming because..."
+- Any concerning patterns: [If found, document]
+
+---
+
+## 8.5 LOCATION ADVANTAGES & DISADVANTAGES
+
+### ADVANTAGES FOR THIS STUDENT
+
+**Career:**
+1. [e.g., "Proximity to major tech companies for internships"]
+2. [e.g., "Growing AI startup scene"]
+3. [e.g., "Post-graduation job market is strong"]
+
+**Academic:**
+1. [e.g., "Access to industry professionals for networking"]
+2. [e.g., "AI research ecosystem beyond university"]
+
+**Lifestyle:**
+1. [e.g., "Affordable for international students"]
+2. [e.g., "Safe and student-friendly city"]
+3. [e.g., "International community for easier integration"]
+
+---
+
+### DISADVANTAGES / CHALLENGES
+
+1. [e.g., "Very expensive cost of living"]
+2. [e.g., "Limited tech presence - fewer internship opportunities"]
+3. [e.g., "Dark winters may impact mood (Nordic cities)"]
+4. [e.g., "Language barrier for daily life"]
+5. [e.g., "Isolated location - far from other major cities"]
+
+---
+
+## 8.6 LOCATION ATTRACTIVENESS SCORE (For Comparison)
+
+### SCORING CRITERIA (0-10 scale):
+
+**Tech Ecosystem:**
+- Tech hub status: [10 = Major hub (SF, Seattle, London), 5 = Emerging, 0 = Limited]
+- AI-specific opportunities: [10 = Many AI companies/labs, 0 = Few]
+
+**Job Market:**
+- Internship opportunities: [10 = Abundant, 5 = Moderate, 0 = Limited]
+- Post-graduation local jobs: [10 = Strong market, 0 = Weak]
+
+**Cost of Living:**
+- Affordability: [10 = Very affordable, 5 = Moderate, 0 = Very expensive]
+  (Inverse score - cheaper = better)
+
+**Quality of Life:**
+- Safety: [10 = Very safe, 0 = Unsafe]
+- Livability: [10 = Excellent, 5 = Adequate, 0 = Poor]
+- International friendliness: [10 = Very welcoming, 0 = Challenging]
+
+**Practical Factors:**
+- English proficiency in city: [10 = Fluent, 5 = Moderate, 0 = Low]
+- Climate acceptability: [10 = Comfortable, 5 = Adjustment needed, 0 = Extreme]
+
+**CALCULATE: LOCATION ATTRACTIVENESS SCORE = [X]/10**
+
+---
+
+## 8.7 STANDARDIZED OUTPUT FOR COMPARISON
+
+**LOCATION PROFILE CARD**
+
+```
+UNIVERSITY: [Name]
+CITY: [Name], [Country]
+TYPE: [Major metro / Mid-size / College town]
+
+TECH ECOSYSTEM:
+- Status: [Major tech hub / Emerging / Limited]
+- FAANG presence: [X] companies with offices
+- AI companies/labs: [X]
+- Startups: [Active scene / Moderate / Limited]
+- Internship opportunities: [Abundant / Moderate / Limited]
+
+COST OF LIVING:
+- Monthly budget: €[X] (minimal) to €[Y] (comfortable)
+- Numbeo Index: [X] (NY = 100)
+- Affordability: [Very affordable / Moderate / Expensive / Very expensive]
+- Compared to Ukraine: [Cheaper / Similar / More expensive]
+
+QUALITY OF LIFE:
+- Safety: [Very safe / Safe / Moderate / Concerns]
+- English proficiency: [Very high / High / Moderate / Low]
+- International atmosphere: [Very diverse / Moderate / Homogeneous]
+- Climate: [Comfortable / Adjustment needed / Challenging]
+- Student-friendly: [YES - vibrant / Moderate / Limited]
+
+ADVANTAGES:
+1. [Key advantage 1]
+2. [Key advantage 2]
+3. [Key advantage 3]
+
+DISADVANTAGES:
+1. [Key challenge 1]
+2. [Key challenge 2]
+3. [Key challenge 3]
+
+LOCATION ATTRACTIVENESS SCORE: [X]/10
+
+BOTTOM LINE:
+[Excellent location for AI student / Good location / Trade-offs / Challenging location]
+```
+
+---
+
+## 8.8 CRITICAL QUESTIONS CHECKLIST
+
+Before moving to next section:
+- [ ] City tech hub status researched (FAANG presence, startups)
+- [ ] Cost of living calculated (monthly budget in EUR)
+- [ ] Numbeo/Expatistan data checked
+- [ ] Safety assessed (statistics + student reports)
+- [ ] Climate and weather documented
+- [ ] English proficiency in city evaluated
+- [ ] International student experiences from forums
+- [ ] Location advantages listed (3-5)
+- [ ] Location challenges listed (3-5)
+- [ ] Location Attractiveness Score calculated
+
+---
+
+## ⚠️ FINAL REMINDER ⚠️
+
+**VERIFY YOUR WORK:**
+- Every URL you included came from actual search results (not generated by you)
+- Every city statistic, cost of living data, and location detail came from search results
+- Any information you couldn't find is clearly marked as "Information not available"
+- You did NOT fabricate or guess any information
+
+**If you generated fake links or data, your report is INVALID. Only real search results are acceptable.**
